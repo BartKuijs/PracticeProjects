@@ -1,0 +1,14 @@
+C:\Users\bartk\source\repos\Homework-ConditionalStatements\Homework-ConditionalStatements\bin\Debug\net8.0\Homework-ConditionalStatements.exe
+C:\Users\bartk\source\repos\Homework-ConditionalStatements\Homework-ConditionalStatements\bin\Debug\net8.0\Homework-ConditionalStatements.deps.json
+C:\Users\bartk\source\repos\Homework-ConditionalStatements\Homework-ConditionalStatements\bin\Debug\net8.0\Homework-ConditionalStatements.runtimeconfig.json
+C:\Users\bartk\source\repos\Homework-ConditionalStatements\Homework-ConditionalStatements\bin\Debug\net8.0\Homework-ConditionalStatements.dll
+C:\Users\bartk\source\repos\Homework-ConditionalStatements\Homework-ConditionalStatements\bin\Debug\net8.0\Homework-ConditionalStatements.pdb
+C:\Users\bartk\source\repos\Homework-ConditionalStatements\Homework-ConditionalStatements\obj\Debug\net8.0\Homework-ConditionalStatements.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bartk\source\repos\Homework-ConditionalStatements\Homework-ConditionalStatements\obj\Debug\net8.0\Homework-ConditionalStatements.AssemblyInfoInputs.cache
+C:\Users\bartk\source\repos\Homework-ConditionalStatements\Homework-ConditionalStatements\obj\Debug\net8.0\Homework-ConditionalStatements.AssemblyInfo.cs
+C:\Users\bartk\source\repos\Homework-ConditionalStatements\Homework-ConditionalStatements\obj\Debug\net8.0\Homework-ConditionalStatements.csproj.CoreCompileInputs.cache
+C:\Users\bartk\source\repos\Homework-ConditionalStatements\Homework-ConditionalStatements\obj\Debug\net8.0\Homework-ConditionalStatements.dll
+C:\Users\bartk\source\repos\Homework-ConditionalStatements\Homework-ConditionalStatements\obj\Debug\net8.0\refint\Homework-ConditionalStatements.dll
+C:\Users\bartk\source\repos\Homework-ConditionalStatements\Homework-ConditionalStatements\obj\Debug\net8.0\Homework-ConditionalStatements.pdb
+C:\Users\bartk\source\repos\Homework-ConditionalStatements\Homework-ConditionalStatements\obj\Debug\net8.0\Homework-ConditionalStatements.genruntimeconfig.cache
+C:\Users\bartk\source\repos\Homework-ConditionalStatements\Homework-ConditionalStatements\obj\Debug\net8.0\ref\Homework-ConditionalStatements.dll
