@@ -1,0 +1,15 @@
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\SwitchDemoApp\SwitchStatementPractice\bin\Debug\net6.0\SwitchStatementPractice.exe
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\SwitchDemoApp\SwitchStatementPractice\bin\Debug\net6.0\SwitchStatementPractice.deps.json
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\SwitchDemoApp\SwitchStatementPractice\bin\Debug\net6.0\SwitchStatementPractice.runtimeconfig.json
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\SwitchDemoApp\SwitchStatementPractice\bin\Debug\net6.0\SwitchStatementPractice.dll
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\SwitchDemoApp\SwitchStatementPractice\bin\Debug\net6.0\SwitchStatementPractice.pdb
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\SwitchDemoApp\SwitchStatementPractice\obj\Debug\net6.0\SwitchStatementPractice.csproj.AssemblyReference.cache
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\SwitchDemoApp\SwitchStatementPractice\obj\Debug\net6.0\SwitchStatementPractice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\SwitchDemoApp\SwitchStatementPractice\obj\Debug\net6.0\SwitchStatementPractice.AssemblyInfoInputs.cache
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\SwitchDemoApp\SwitchStatementPractice\obj\Debug\net6.0\SwitchStatementPractice.AssemblyInfo.cs
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\SwitchDemoApp\SwitchStatementPractice\obj\Debug\net6.0\SwitchStatementPractice.csproj.CoreCompileInputs.cache
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\SwitchDemoApp\SwitchStatementPractice\obj\Debug\net6.0\SwitchStatementPractice.dll
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\SwitchDemoApp\SwitchStatementPractice\obj\Debug\net6.0\refint\SwitchStatementPractice.dll
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\SwitchDemoApp\SwitchStatementPractice\obj\Debug\net6.0\SwitchStatementPractice.pdb
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\SwitchDemoApp\SwitchStatementPractice\obj\Debug\net6.0\SwitchStatementPractice.genruntimeconfig.cache
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\SwitchDemoApp\SwitchStatementPractice\obj\Debug\net6.0\ref\SwitchStatementPractice.dll

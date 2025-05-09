@@ -1,0 +1,15 @@
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\InstantiatedClassesApp\InstantiatedClasses\bin\Debug\net6.0\InstantiatedClasses.exe
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\InstantiatedClassesApp\InstantiatedClasses\bin\Debug\net6.0\InstantiatedClasses.deps.json
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\InstantiatedClassesApp\InstantiatedClasses\bin\Debug\net6.0\InstantiatedClasses.runtimeconfig.json
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\InstantiatedClassesApp\InstantiatedClasses\bin\Debug\net6.0\InstantiatedClasses.dll
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\InstantiatedClassesApp\InstantiatedClasses\bin\Debug\net6.0\InstantiatedClasses.pdb
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\InstantiatedClassesApp\InstantiatedClasses\obj\Debug\net6.0\InstantiatedClasses.csproj.AssemblyReference.cache
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\InstantiatedClassesApp\InstantiatedClasses\obj\Debug\net6.0\InstantiatedClasses.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\InstantiatedClassesApp\InstantiatedClasses\obj\Debug\net6.0\InstantiatedClasses.AssemblyInfoInputs.cache
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\InstantiatedClassesApp\InstantiatedClasses\obj\Debug\net6.0\InstantiatedClasses.AssemblyInfo.cs
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\InstantiatedClassesApp\InstantiatedClasses\obj\Debug\net6.0\InstantiatedClasses.csproj.CoreCompileInputs.cache
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\InstantiatedClassesApp\InstantiatedClasses\obj\Debug\net6.0\InstantiatedClasses.dll
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\InstantiatedClassesApp\InstantiatedClasses\obj\Debug\net6.0\refint\InstantiatedClasses.dll
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\InstantiatedClassesApp\InstantiatedClasses\obj\Debug\net6.0\InstantiatedClasses.pdb
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\InstantiatedClassesApp\InstantiatedClasses\obj\Debug\net6.0\InstantiatedClasses.genruntimeconfig.cache
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\InstantiatedClassesApp\InstantiatedClasses\obj\Debug\net6.0\ref\InstantiatedClasses.dll

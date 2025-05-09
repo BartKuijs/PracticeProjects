@@ -1,0 +1,15 @@
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\StringBasic\StringInterpolationAndLiteral\bin\Debug\net6.0\StringInterpolationAndLiteral.exe
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\StringBasic\StringInterpolationAndLiteral\bin\Debug\net6.0\StringInterpolationAndLiteral.deps.json
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\StringBasic\StringInterpolationAndLiteral\bin\Debug\net6.0\StringInterpolationAndLiteral.runtimeconfig.json
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\StringBasic\StringInterpolationAndLiteral\bin\Debug\net6.0\StringInterpolationAndLiteral.dll
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\StringBasic\StringInterpolationAndLiteral\bin\Debug\net6.0\StringInterpolationAndLiteral.pdb
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\StringBasic\StringInterpolationAndLiteral\obj\Debug\net6.0\StringInterpolationAndLiteral.csproj.AssemblyReference.cache
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\StringBasic\StringInterpolationAndLiteral\obj\Debug\net6.0\StringInterpolationAndLiteral.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\StringBasic\StringInterpolationAndLiteral\obj\Debug\net6.0\StringInterpolationAndLiteral.AssemblyInfoInputs.cache
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\StringBasic\StringInterpolationAndLiteral\obj\Debug\net6.0\StringInterpolationAndLiteral.AssemblyInfo.cs
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\StringBasic\StringInterpolationAndLiteral\obj\Debug\net6.0\StringInterpolationAndLiteral.csproj.CoreCompileInputs.cache
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\StringBasic\StringInterpolationAndLiteral\obj\Debug\net6.0\StringInterpolationAndLiteral.dll
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\StringBasic\StringInterpolationAndLiteral\obj\Debug\net6.0\refint\StringInterpolationAndLiteral.dll
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\StringBasic\StringInterpolationAndLiteral\obj\Debug\net6.0\StringInterpolationAndLiteral.pdb
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\StringBasic\StringInterpolationAndLiteral\obj\Debug\net6.0\StringInterpolationAndLiteral.genruntimeconfig.cache
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\StringBasic\StringInterpolationAndLiteral\obj\Debug\net6.0\ref\StringInterpolationAndLiteral.dll

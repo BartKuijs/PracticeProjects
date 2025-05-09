@@ -1,0 +1,15 @@
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\IntVariablesApp\IntergerPractice\bin\Debug\net6.0\IntergerPractice.exe
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\IntVariablesApp\IntergerPractice\bin\Debug\net6.0\IntergerPractice.deps.json
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\IntVariablesApp\IntergerPractice\bin\Debug\net6.0\IntergerPractice.runtimeconfig.json
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\IntVariablesApp\IntergerPractice\bin\Debug\net6.0\IntergerPractice.dll
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\IntVariablesApp\IntergerPractice\bin\Debug\net6.0\IntergerPractice.pdb
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\IntVariablesApp\IntergerPractice\obj\Debug\net6.0\IntergerPractice.csproj.AssemblyReference.cache
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\IntVariablesApp\IntergerPractice\obj\Debug\net6.0\IntergerPractice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\IntVariablesApp\IntergerPractice\obj\Debug\net6.0\IntergerPractice.AssemblyInfoInputs.cache
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\IntVariablesApp\IntergerPractice\obj\Debug\net6.0\IntergerPractice.AssemblyInfo.cs
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\IntVariablesApp\IntergerPractice\obj\Debug\net6.0\IntergerPractice.csproj.CoreCompileInputs.cache
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\IntVariablesApp\IntergerPractice\obj\Debug\net6.0\IntergerPractice.dll
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\IntVariablesApp\IntergerPractice\obj\Debug\net6.0\refint\IntergerPractice.dll
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\IntVariablesApp\IntergerPractice\obj\Debug\net6.0\IntergerPractice.pdb
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\IntVariablesApp\IntergerPractice\obj\Debug\net6.0\IntergerPractice.genruntimeconfig.cache
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\IntVariablesApp\IntergerPractice\obj\Debug\net6.0\ref\IntergerPractice.dll

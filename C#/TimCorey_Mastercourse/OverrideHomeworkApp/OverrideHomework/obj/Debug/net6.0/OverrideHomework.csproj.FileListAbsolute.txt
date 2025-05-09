@@ -1,0 +1,15 @@
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\OverrideHomeworkApp\OverrideHomework\bin\Debug\net6.0\OverrideHomework.exe
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\OverrideHomeworkApp\OverrideHomework\bin\Debug\net6.0\OverrideHomework.deps.json
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\OverrideHomeworkApp\OverrideHomework\bin\Debug\net6.0\OverrideHomework.runtimeconfig.json
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\OverrideHomeworkApp\OverrideHomework\bin\Debug\net6.0\OverrideHomework.dll
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\OverrideHomeworkApp\OverrideHomework\bin\Debug\net6.0\OverrideHomework.pdb
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\OverrideHomeworkApp\OverrideHomework\obj\Debug\net6.0\OverrideHomework.csproj.AssemblyReference.cache
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\OverrideHomeworkApp\OverrideHomework\obj\Debug\net6.0\OverrideHomework.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\OverrideHomeworkApp\OverrideHomework\obj\Debug\net6.0\OverrideHomework.AssemblyInfoInputs.cache
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\OverrideHomeworkApp\OverrideHomework\obj\Debug\net6.0\OverrideHomework.AssemblyInfo.cs
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\OverrideHomeworkApp\OverrideHomework\obj\Debug\net6.0\OverrideHomework.csproj.CoreCompileInputs.cache
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\OverrideHomeworkApp\OverrideHomework\obj\Debug\net6.0\OverrideHomework.dll
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\OverrideHomeworkApp\OverrideHomework\obj\Debug\net6.0\refint\OverrideHomework.dll
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\OverrideHomeworkApp\OverrideHomework\obj\Debug\net6.0\OverrideHomework.pdb
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\OverrideHomeworkApp\OverrideHomework\obj\Debug\net6.0\OverrideHomework.genruntimeconfig.cache
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\OverrideHomeworkApp\OverrideHomework\obj\Debug\net6.0\ref\OverrideHomework.dll

@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "SelfGuestBookProject/1.0.0": {
+        "dependencies": {
+          "UserInformationHandler": "1.0.0"
+        },
+        "runtime": {
+          "SelfGuestBookProject.dll": {}
+        }
+      },
+      "UserInformationHandler/1.0.0": {
+        "runtime": {
+          "UserInformationHandler.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SelfGuestBookProject/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "UserInformationHandler/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

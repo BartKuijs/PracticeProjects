@@ -1,0 +1,15 @@
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\DoLoopApp\DoLoopPractice\bin\Debug\net6.0\DoLoopPractice.exe
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\DoLoopApp\DoLoopPractice\bin\Debug\net6.0\DoLoopPractice.deps.json
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\DoLoopApp\DoLoopPractice\bin\Debug\net6.0\DoLoopPractice.runtimeconfig.json
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\DoLoopApp\DoLoopPractice\bin\Debug\net6.0\DoLoopPractice.dll
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\DoLoopApp\DoLoopPractice\bin\Debug\net6.0\DoLoopPractice.pdb
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\DoLoopApp\DoLoopPractice\obj\Debug\net6.0\DoLoopPractice.csproj.AssemblyReference.cache
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\DoLoopApp\DoLoopPractice\obj\Debug\net6.0\DoLoopPractice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\DoLoopApp\DoLoopPractice\obj\Debug\net6.0\DoLoopPractice.AssemblyInfoInputs.cache
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\DoLoopApp\DoLoopPractice\obj\Debug\net6.0\DoLoopPractice.AssemblyInfo.cs
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\DoLoopApp\DoLoopPractice\obj\Debug\net6.0\DoLoopPractice.csproj.CoreCompileInputs.cache
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\DoLoopApp\DoLoopPractice\obj\Debug\net6.0\DoLoopPractice.dll
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\DoLoopApp\DoLoopPractice\obj\Debug\net6.0\refint\DoLoopPractice.dll
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\DoLoopApp\DoLoopPractice\obj\Debug\net6.0\DoLoopPractice.pdb
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\DoLoopApp\DoLoopPractice\obj\Debug\net6.0\DoLoopPractice.genruntimeconfig.cache
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\DoLoopApp\DoLoopPractice\obj\Debug\net6.0\ref\DoLoopPractice.dll

@@ -1,0 +1,15 @@
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\TimeOnlyVariablesApp\TimeOnlyVariablesPractice\bin\Debug\net6.0\TimeOnlyVariablesPractice.exe
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\TimeOnlyVariablesApp\TimeOnlyVariablesPractice\bin\Debug\net6.0\TimeOnlyVariablesPractice.deps.json
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\TimeOnlyVariablesApp\TimeOnlyVariablesPractice\bin\Debug\net6.0\TimeOnlyVariablesPractice.runtimeconfig.json
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\TimeOnlyVariablesApp\TimeOnlyVariablesPractice\bin\Debug\net6.0\TimeOnlyVariablesPractice.dll
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\TimeOnlyVariablesApp\TimeOnlyVariablesPractice\bin\Debug\net6.0\TimeOnlyVariablesPractice.pdb
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\TimeOnlyVariablesApp\TimeOnlyVariablesPractice\obj\Debug\net6.0\TimeOnlyVariablesPractice.csproj.AssemblyReference.cache
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\TimeOnlyVariablesApp\TimeOnlyVariablesPractice\obj\Debug\net6.0\TimeOnlyVariablesPractice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\TimeOnlyVariablesApp\TimeOnlyVariablesPractice\obj\Debug\net6.0\TimeOnlyVariablesPractice.AssemblyInfoInputs.cache
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\TimeOnlyVariablesApp\TimeOnlyVariablesPractice\obj\Debug\net6.0\TimeOnlyVariablesPractice.AssemblyInfo.cs
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\TimeOnlyVariablesApp\TimeOnlyVariablesPractice\obj\Debug\net6.0\TimeOnlyVariablesPractice.csproj.CoreCompileInputs.cache
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\TimeOnlyVariablesApp\TimeOnlyVariablesPractice\obj\Debug\net6.0\TimeOnlyVariablesPractice.dll
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\TimeOnlyVariablesApp\TimeOnlyVariablesPractice\obj\Debug\net6.0\refint\TimeOnlyVariablesPractice.dll
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\TimeOnlyVariablesApp\TimeOnlyVariablesPractice\obj\Debug\net6.0\TimeOnlyVariablesPractice.pdb
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\TimeOnlyVariablesApp\TimeOnlyVariablesPractice\obj\Debug\net6.0\TimeOnlyVariablesPractice.genruntimeconfig.cache
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\TimeOnlyVariablesApp\TimeOnlyVariablesPractice\obj\Debug\net6.0\ref\TimeOnlyVariablesPractice.dll

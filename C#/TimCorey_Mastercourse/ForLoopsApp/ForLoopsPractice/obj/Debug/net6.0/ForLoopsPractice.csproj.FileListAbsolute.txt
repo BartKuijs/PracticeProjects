@@ -1,0 +1,15 @@
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\ForLoopsApp\ForLoopsPractice\bin\Debug\net6.0\ForLoopsPractice.exe
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\ForLoopsApp\ForLoopsPractice\bin\Debug\net6.0\ForLoopsPractice.deps.json
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\ForLoopsApp\ForLoopsPractice\bin\Debug\net6.0\ForLoopsPractice.runtimeconfig.json
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\ForLoopsApp\ForLoopsPractice\bin\Debug\net6.0\ForLoopsPractice.dll
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\ForLoopsApp\ForLoopsPractice\bin\Debug\net6.0\ForLoopsPractice.pdb
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\ForLoopsApp\ForLoopsPractice\obj\Debug\net6.0\ForLoopsPractice.csproj.AssemblyReference.cache
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\ForLoopsApp\ForLoopsPractice\obj\Debug\net6.0\ForLoopsPractice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\ForLoopsApp\ForLoopsPractice\obj\Debug\net6.0\ForLoopsPractice.AssemblyInfoInputs.cache
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\ForLoopsApp\ForLoopsPractice\obj\Debug\net6.0\ForLoopsPractice.AssemblyInfo.cs
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\ForLoopsApp\ForLoopsPractice\obj\Debug\net6.0\ForLoopsPractice.csproj.CoreCompileInputs.cache
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\ForLoopsApp\ForLoopsPractice\obj\Debug\net6.0\ForLoopsPractice.dll
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\ForLoopsApp\ForLoopsPractice\obj\Debug\net6.0\refint\ForLoopsPractice.dll
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\ForLoopsApp\ForLoopsPractice\obj\Debug\net6.0\ForLoopsPractice.pdb
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\ForLoopsApp\ForLoopsPractice\obj\Debug\net6.0\ForLoopsPractice.genruntimeconfig.cache
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\ForLoopsApp\ForLoopsPractice\obj\Debug\net6.0\ref\ForLoopsPractice.dll

@@ -1,0 +1,15 @@
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\ForEachLoopsHomeworkApp\ForEachLoopsHomework\bin\Debug\net6.0\ForEachLoopsHomework.exe
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\ForEachLoopsHomeworkApp\ForEachLoopsHomework\bin\Debug\net6.0\ForEachLoopsHomework.deps.json
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\ForEachLoopsHomeworkApp\ForEachLoopsHomework\bin\Debug\net6.0\ForEachLoopsHomework.runtimeconfig.json
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\ForEachLoopsHomeworkApp\ForEachLoopsHomework\bin\Debug\net6.0\ForEachLoopsHomework.dll
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\ForEachLoopsHomeworkApp\ForEachLoopsHomework\bin\Debug\net6.0\ForEachLoopsHomework.pdb
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\ForEachLoopsHomeworkApp\ForEachLoopsHomework\obj\Debug\net6.0\ForEachLoopsHomework.csproj.AssemblyReference.cache
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\ForEachLoopsHomeworkApp\ForEachLoopsHomework\obj\Debug\net6.0\ForEachLoopsHomework.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\ForEachLoopsHomeworkApp\ForEachLoopsHomework\obj\Debug\net6.0\ForEachLoopsHomework.AssemblyInfoInputs.cache
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\ForEachLoopsHomeworkApp\ForEachLoopsHomework\obj\Debug\net6.0\ForEachLoopsHomework.AssemblyInfo.cs
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\ForEachLoopsHomeworkApp\ForEachLoopsHomework\obj\Debug\net6.0\ForEachLoopsHomework.csproj.CoreCompileInputs.cache
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\ForEachLoopsHomeworkApp\ForEachLoopsHomework\obj\Debug\net6.0\ForEachLoopsHomework.dll
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\ForEachLoopsHomeworkApp\ForEachLoopsHomework\obj\Debug\net6.0\refint\ForEachLoopsHomework.dll
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\ForEachLoopsHomeworkApp\ForEachLoopsHomework\obj\Debug\net6.0\ForEachLoopsHomework.pdb
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\ForEachLoopsHomeworkApp\ForEachLoopsHomework\obj\Debug\net6.0\ForEachLoopsHomework.genruntimeconfig.cache
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\ForEachLoopsHomeworkApp\ForEachLoopsHomework\obj\Debug\net6.0\ref\ForEachLoopsHomework.dll

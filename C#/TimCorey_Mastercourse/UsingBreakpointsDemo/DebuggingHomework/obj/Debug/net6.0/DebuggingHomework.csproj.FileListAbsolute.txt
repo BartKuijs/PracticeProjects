@@ -1,0 +1,15 @@
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\UsingBreakpointsDemo\DebuggingHomework\bin\Debug\net6.0\DebuggingHomework.exe
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\UsingBreakpointsDemo\DebuggingHomework\bin\Debug\net6.0\DebuggingHomework.deps.json
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\UsingBreakpointsDemo\DebuggingHomework\bin\Debug\net6.0\DebuggingHomework.runtimeconfig.json
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\UsingBreakpointsDemo\DebuggingHomework\bin\Debug\net6.0\DebuggingHomework.dll
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\UsingBreakpointsDemo\DebuggingHomework\bin\Debug\net6.0\DebuggingHomework.pdb
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\UsingBreakpointsDemo\DebuggingHomework\obj\Debug\net6.0\DebuggingHomework.csproj.AssemblyReference.cache
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\UsingBreakpointsDemo\DebuggingHomework\obj\Debug\net6.0\DebuggingHomework.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\UsingBreakpointsDemo\DebuggingHomework\obj\Debug\net6.0\DebuggingHomework.AssemblyInfoInputs.cache
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\UsingBreakpointsDemo\DebuggingHomework\obj\Debug\net6.0\DebuggingHomework.AssemblyInfo.cs
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\UsingBreakpointsDemo\DebuggingHomework\obj\Debug\net6.0\DebuggingHomework.csproj.CoreCompileInputs.cache
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\UsingBreakpointsDemo\DebuggingHomework\obj\Debug\net6.0\DebuggingHomework.dll
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\UsingBreakpointsDemo\DebuggingHomework\obj\Debug\net6.0\refint\DebuggingHomework.dll
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\UsingBreakpointsDemo\DebuggingHomework\obj\Debug\net6.0\DebuggingHomework.pdb
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\UsingBreakpointsDemo\DebuggingHomework\obj\Debug\net6.0\DebuggingHomework.genruntimeconfig.cache
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\UsingBreakpointsDemo\DebuggingHomework\obj\Debug\net6.0\ref\DebuggingHomework.dll

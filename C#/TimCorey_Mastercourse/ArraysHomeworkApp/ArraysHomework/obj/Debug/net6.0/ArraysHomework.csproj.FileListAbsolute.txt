@@ -1,0 +1,15 @@
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\ArraysHomeworkApp\ArraysHomework\bin\Debug\net6.0\ArraysHomework.exe
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\ArraysHomeworkApp\ArraysHomework\bin\Debug\net6.0\ArraysHomework.deps.json
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\ArraysHomeworkApp\ArraysHomework\bin\Debug\net6.0\ArraysHomework.runtimeconfig.json
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\ArraysHomeworkApp\ArraysHomework\bin\Debug\net6.0\ArraysHomework.dll
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\ArraysHomeworkApp\ArraysHomework\bin\Debug\net6.0\ArraysHomework.pdb
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\ArraysHomeworkApp\ArraysHomework\obj\Debug\net6.0\ArraysHomework.csproj.AssemblyReference.cache
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\ArraysHomeworkApp\ArraysHomework\obj\Debug\net6.0\ArraysHomework.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\ArraysHomeworkApp\ArraysHomework\obj\Debug\net6.0\ArraysHomework.AssemblyInfoInputs.cache
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\ArraysHomeworkApp\ArraysHomework\obj\Debug\net6.0\ArraysHomework.AssemblyInfo.cs
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\ArraysHomeworkApp\ArraysHomework\obj\Debug\net6.0\ArraysHomework.csproj.CoreCompileInputs.cache
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\ArraysHomeworkApp\ArraysHomework\obj\Debug\net6.0\ArraysHomework.dll
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\ArraysHomeworkApp\ArraysHomework\obj\Debug\net6.0\refint\ArraysHomework.dll
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\ArraysHomeworkApp\ArraysHomework\obj\Debug\net6.0\ArraysHomework.pdb
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\ArraysHomeworkApp\ArraysHomework\obj\Debug\net6.0\ArraysHomework.genruntimeconfig.cache
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\ArraysHomeworkApp\ArraysHomework\obj\Debug\net6.0\ref\ArraysHomework.dll

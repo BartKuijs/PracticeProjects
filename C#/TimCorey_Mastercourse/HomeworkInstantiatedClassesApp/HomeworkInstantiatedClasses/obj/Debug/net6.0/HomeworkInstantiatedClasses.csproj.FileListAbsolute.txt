@@ -1,0 +1,15 @@
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\HomeworkInstantiatedClassesApp\HomeworkInstantiatedClasses\bin\Debug\net6.0\HomeworkInstantiatedClasses.exe
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\HomeworkInstantiatedClassesApp\HomeworkInstantiatedClasses\bin\Debug\net6.0\HomeworkInstantiatedClasses.deps.json
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\HomeworkInstantiatedClassesApp\HomeworkInstantiatedClasses\bin\Debug\net6.0\HomeworkInstantiatedClasses.runtimeconfig.json
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\HomeworkInstantiatedClassesApp\HomeworkInstantiatedClasses\bin\Debug\net6.0\HomeworkInstantiatedClasses.dll
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\HomeworkInstantiatedClassesApp\HomeworkInstantiatedClasses\bin\Debug\net6.0\HomeworkInstantiatedClasses.pdb
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\HomeworkInstantiatedClassesApp\HomeworkInstantiatedClasses\obj\Debug\net6.0\HomeworkInstantiatedClasses.csproj.AssemblyReference.cache
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\HomeworkInstantiatedClassesApp\HomeworkInstantiatedClasses\obj\Debug\net6.0\HomeworkInstantiatedClasses.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\HomeworkInstantiatedClassesApp\HomeworkInstantiatedClasses\obj\Debug\net6.0\HomeworkInstantiatedClasses.AssemblyInfoInputs.cache
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\HomeworkInstantiatedClassesApp\HomeworkInstantiatedClasses\obj\Debug\net6.0\HomeworkInstantiatedClasses.AssemblyInfo.cs
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\HomeworkInstantiatedClassesApp\HomeworkInstantiatedClasses\obj\Debug\net6.0\HomeworkInstantiatedClasses.csproj.CoreCompileInputs.cache
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\HomeworkInstantiatedClassesApp\HomeworkInstantiatedClasses\obj\Debug\net6.0\HomeworkInstantiatedClasses.dll
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\HomeworkInstantiatedClassesApp\HomeworkInstantiatedClasses\obj\Debug\net6.0\refint\HomeworkInstantiatedClasses.dll
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\HomeworkInstantiatedClassesApp\HomeworkInstantiatedClasses\obj\Debug\net6.0\HomeworkInstantiatedClasses.pdb
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\HomeworkInstantiatedClassesApp\HomeworkInstantiatedClasses\obj\Debug\net6.0\HomeworkInstantiatedClasses.genruntimeconfig.cache
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\HomeworkInstantiatedClassesApp\HomeworkInstantiatedClasses\obj\Debug\net6.0\ref\HomeworkInstantiatedClasses.dll

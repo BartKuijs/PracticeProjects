@@ -1,0 +1,15 @@
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\DoubleVariablesApp\DoubleVariables\bin\Debug\net6.0\DoubleVariables.exe
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\DoubleVariablesApp\DoubleVariables\bin\Debug\net6.0\DoubleVariables.deps.json
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\DoubleVariablesApp\DoubleVariables\bin\Debug\net6.0\DoubleVariables.runtimeconfig.json
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\DoubleVariablesApp\DoubleVariables\bin\Debug\net6.0\DoubleVariables.dll
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\DoubleVariablesApp\DoubleVariables\bin\Debug\net6.0\DoubleVariables.pdb
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\DoubleVariablesApp\DoubleVariables\obj\Debug\net6.0\DoubleVariables.csproj.AssemblyReference.cache
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\DoubleVariablesApp\DoubleVariables\obj\Debug\net6.0\DoubleVariables.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\DoubleVariablesApp\DoubleVariables\obj\Debug\net6.0\DoubleVariables.AssemblyInfoInputs.cache
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\DoubleVariablesApp\DoubleVariables\obj\Debug\net6.0\DoubleVariables.AssemblyInfo.cs
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\DoubleVariablesApp\DoubleVariables\obj\Debug\net6.0\DoubleVariables.csproj.CoreCompileInputs.cache
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\DoubleVariablesApp\DoubleVariables\obj\Debug\net6.0\DoubleVariables.dll
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\DoubleVariablesApp\DoubleVariables\obj\Debug\net6.0\refint\DoubleVariables.dll
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\DoubleVariablesApp\DoubleVariables\obj\Debug\net6.0\DoubleVariables.pdb
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\DoubleVariablesApp\DoubleVariables\obj\Debug\net6.0\DoubleVariables.genruntimeconfig.cache
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\DoubleVariablesApp\DoubleVariables\obj\Debug\net6.0\ref\DoubleVariables.dll

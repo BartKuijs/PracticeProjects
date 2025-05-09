@@ -1,0 +1,15 @@
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\ListsHomeworkApp\ListsHomework\bin\Debug\net6.0\ListsHomework.exe
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\ListsHomeworkApp\ListsHomework\bin\Debug\net6.0\ListsHomework.deps.json
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\ListsHomeworkApp\ListsHomework\bin\Debug\net6.0\ListsHomework.runtimeconfig.json
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\ListsHomeworkApp\ListsHomework\bin\Debug\net6.0\ListsHomework.dll
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\ListsHomeworkApp\ListsHomework\bin\Debug\net6.0\ListsHomework.pdb
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\ListsHomeworkApp\ListsHomework\obj\Debug\net6.0\ListsHomework.csproj.AssemblyReference.cache
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\ListsHomeworkApp\ListsHomework\obj\Debug\net6.0\ListsHomework.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\ListsHomeworkApp\ListsHomework\obj\Debug\net6.0\ListsHomework.AssemblyInfoInputs.cache
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\ListsHomeworkApp\ListsHomework\obj\Debug\net6.0\ListsHomework.AssemblyInfo.cs
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\ListsHomeworkApp\ListsHomework\obj\Debug\net6.0\ListsHomework.csproj.CoreCompileInputs.cache
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\ListsHomeworkApp\ListsHomework\obj\Debug\net6.0\ListsHomework.dll
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\ListsHomeworkApp\ListsHomework\obj\Debug\net6.0\refint\ListsHomework.dll
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\ListsHomeworkApp\ListsHomework\obj\Debug\net6.0\ListsHomework.pdb
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\ListsHomeworkApp\ListsHomework\obj\Debug\net6.0\ListsHomework.genruntimeconfig.cache
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\ListsHomeworkApp\ListsHomework\obj\Debug\net6.0\ref\ListsHomework.dll

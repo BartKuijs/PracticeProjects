@@ -1,0 +1,15 @@
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\ExtensionMethodHomeworkApp\ExtensionMethodHomework\bin\Debug\net6.0\ExtensionMethodHomework.exe
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\ExtensionMethodHomeworkApp\ExtensionMethodHomework\bin\Debug\net6.0\ExtensionMethodHomework.deps.json
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\ExtensionMethodHomeworkApp\ExtensionMethodHomework\bin\Debug\net6.0\ExtensionMethodHomework.runtimeconfig.json
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\ExtensionMethodHomeworkApp\ExtensionMethodHomework\bin\Debug\net6.0\ExtensionMethodHomework.dll
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\ExtensionMethodHomeworkApp\ExtensionMethodHomework\bin\Debug\net6.0\ExtensionMethodHomework.pdb
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\ExtensionMethodHomeworkApp\ExtensionMethodHomework\obj\Debug\net6.0\ExtensionMethodHomework.csproj.AssemblyReference.cache
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\ExtensionMethodHomeworkApp\ExtensionMethodHomework\obj\Debug\net6.0\ExtensionMethodHomework.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\ExtensionMethodHomeworkApp\ExtensionMethodHomework\obj\Debug\net6.0\ExtensionMethodHomework.AssemblyInfoInputs.cache
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\ExtensionMethodHomeworkApp\ExtensionMethodHomework\obj\Debug\net6.0\ExtensionMethodHomework.AssemblyInfo.cs
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\ExtensionMethodHomeworkApp\ExtensionMethodHomework\obj\Debug\net6.0\ExtensionMethodHomework.csproj.CoreCompileInputs.cache
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\ExtensionMethodHomeworkApp\ExtensionMethodHomework\obj\Debug\net6.0\ExtensionMethodHomework.dll
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\ExtensionMethodHomeworkApp\ExtensionMethodHomework\obj\Debug\net6.0\refint\ExtensionMethodHomework.dll
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\ExtensionMethodHomeworkApp\ExtensionMethodHomework\obj\Debug\net6.0\ExtensionMethodHomework.pdb
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\ExtensionMethodHomeworkApp\ExtensionMethodHomework\obj\Debug\net6.0\ExtensionMethodHomework.genruntimeconfig.cache
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\ExtensionMethodHomeworkApp\ExtensionMethodHomework\obj\Debug\net6.0\ref\ExtensionMethodHomework.dll

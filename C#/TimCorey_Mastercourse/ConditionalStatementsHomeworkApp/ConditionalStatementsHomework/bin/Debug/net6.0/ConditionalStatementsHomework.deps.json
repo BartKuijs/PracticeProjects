@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "ConditionalStatementsHomework/1.0.0": {
+        "runtime": {
+          "ConditionalStatementsHomework.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ConditionalStatementsHomework/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

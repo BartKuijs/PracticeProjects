@@ -1,0 +1,15 @@
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\IfStatementsApp\IfStatements\bin\Debug\net6.0\IfStatementsBasic.exe
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\IfStatementsApp\IfStatements\bin\Debug\net6.0\IfStatementsBasic.deps.json
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\IfStatementsApp\IfStatements\bin\Debug\net6.0\IfStatementsBasic.runtimeconfig.json
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\IfStatementsApp\IfStatements\bin\Debug\net6.0\IfStatementsBasic.dll
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\IfStatementsApp\IfStatements\bin\Debug\net6.0\IfStatementsBasic.pdb
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\IfStatementsApp\IfStatements\obj\Debug\net6.0\IfStatementsBasic.csproj.AssemblyReference.cache
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\IfStatementsApp\IfStatements\obj\Debug\net6.0\IfStatementsBasic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\IfStatementsApp\IfStatements\obj\Debug\net6.0\IfStatementsBasic.AssemblyInfoInputs.cache
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\IfStatementsApp\IfStatements\obj\Debug\net6.0\IfStatementsBasic.AssemblyInfo.cs
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\IfStatementsApp\IfStatements\obj\Debug\net6.0\IfStatementsBasic.csproj.CoreCompileInputs.cache
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\IfStatementsApp\IfStatements\obj\Debug\net6.0\IfStatementsBasic.dll
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\IfStatementsApp\IfStatements\obj\Debug\net6.0\refint\IfStatementsBasic.dll
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\IfStatementsApp\IfStatements\obj\Debug\net6.0\IfStatementsBasic.pdb
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\IfStatementsApp\IfStatements\obj\Debug\net6.0\IfStatementsBasic.genruntimeconfig.cache
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\IfStatementsApp\IfStatements\obj\Debug\net6.0\ref\IfStatementsBasic.dll

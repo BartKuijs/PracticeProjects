@@ -1,0 +1,10 @@
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\SqlServerHomeWorkApp\SqlServerHomeworkData\bin\Debug\SqlServerHomeworkData.dacpac
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\SqlServerHomeWorkApp\SqlServerHomeworkData\bin\Debug\SqlServerHomeworkData.dll
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\SqlServerHomeWorkApp\SqlServerHomeworkData\bin\Debug\SqlServerHomeworkData.pdb
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\SqlServerHomeWorkApp\SqlServerHomeworkData\obj\Debug\SqlServerHomeworkData.sqlproj.AssemblyReference.cache
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\SqlServerHomeWorkApp\SqlServerHomeworkData\obj\Debug\Model.xml
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\SqlServerHomeWorkApp\SqlServerHomeworkData\obj\Debug\refactor.xml
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\SqlServerHomeWorkApp\SqlServerHomeworkData\obj\Debug\postdeploy.sql
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\SqlServerHomeWorkApp\SqlServerHomeworkData\obj\Debug\predeploy.sql
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\SqlServerHomeWorkApp\SqlServerHomeworkData\obj\Debug\SqlServerHomeworkData.dll
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\SqlServerHomeWorkApp\SqlServerHomeworkData\obj\Debug\SqlServerHomeworkData.pdb

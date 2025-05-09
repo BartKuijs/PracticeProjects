@@ -1,0 +1,15 @@
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\StudentCheckApp\StudentCheck\bin\Debug\net6.0\StudentCheck.exe
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\StudentCheckApp\StudentCheck\bin\Debug\net6.0\StudentCheck.deps.json
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\StudentCheckApp\StudentCheck\bin\Debug\net6.0\StudentCheck.runtimeconfig.json
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\StudentCheckApp\StudentCheck\bin\Debug\net6.0\StudentCheck.dll
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\StudentCheckApp\StudentCheck\bin\Debug\net6.0\StudentCheck.pdb
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\StudentCheckApp\StudentCheck\obj\Debug\net6.0\StudentCheck.csproj.AssemblyReference.cache
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\StudentCheckApp\StudentCheck\obj\Debug\net6.0\StudentCheck.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\StudentCheckApp\StudentCheck\obj\Debug\net6.0\StudentCheck.AssemblyInfoInputs.cache
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\StudentCheckApp\StudentCheck\obj\Debug\net6.0\StudentCheck.AssemblyInfo.cs
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\StudentCheckApp\StudentCheck\obj\Debug\net6.0\StudentCheck.csproj.CoreCompileInputs.cache
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\StudentCheckApp\StudentCheck\obj\Debug\net6.0\StudentCheck.dll
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\StudentCheckApp\StudentCheck\obj\Debug\net6.0\refint\StudentCheck.dll
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\StudentCheckApp\StudentCheck\obj\Debug\net6.0\StudentCheck.pdb
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\StudentCheckApp\StudentCheck\obj\Debug\net6.0\StudentCheck.genruntimeconfig.cache
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\StudentCheckApp\StudentCheck\obj\Debug\net6.0\ref\StudentCheck.dll

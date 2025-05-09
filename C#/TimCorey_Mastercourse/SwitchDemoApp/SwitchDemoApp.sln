@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SwitchDemo", "SwitchDemo\SwitchDemo.csproj", "{AE8B0EE8-C313-43A6-86FF-BC9234E08858}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SwitchStatementPractice", "SwitchStatementPractice\SwitchStatementPractice.csproj", "{F62072F4-011E-407F-A903-2E634A1751FF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AE8B0EE8-C313-43A6-86FF-BC9234E08858}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE8B0EE8-C313-43A6-86FF-BC9234E08858}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE8B0EE8-C313-43A6-86FF-BC9234E08858}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE8B0EE8-C313-43A6-86FF-BC9234E08858}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F62072F4-011E-407F-A903-2E634A1751FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F62072F4-011E-407F-A903-2E634A1751FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F62072F4-011E-407F-A903-2E634A1751FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F62072F4-011E-407F-A903-2E634A1751FF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0E95CB7C-CAC2-4C1B-B363-9B8CE8247BF5}
+	EndGlobalSection
+EndGlobal

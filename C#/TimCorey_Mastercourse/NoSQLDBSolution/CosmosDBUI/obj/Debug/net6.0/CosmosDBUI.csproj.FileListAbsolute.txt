@@ -1,0 +1,5 @@
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\NoSQLDBSolution\CosmosDBUI\obj\Debug\net6.0\CosmosDBUI.csproj.AssemblyReference.cache
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\NoSQLDBSolution\CosmosDBUI\obj\Debug\net6.0\CosmosDBUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\NoSQLDBSolution\CosmosDBUI\obj\Debug\net6.0\CosmosDBUI.AssemblyInfoInputs.cache
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\NoSQLDBSolution\CosmosDBUI\obj\Debug\net6.0\CosmosDBUI.AssemblyInfo.cs
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\NoSQLDBSolution\CosmosDBUI\obj\Debug\net6.0\CosmosDBUI.csproj.CoreCompileInputs.cache

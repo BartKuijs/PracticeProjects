@@ -1,0 +1,15 @@
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\HandlingAdvancedExceptionsApp\HandlingAdvancedExceptions\bin\Debug\net6.0\HandlingAdvancedExceptions.exe
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\HandlingAdvancedExceptionsApp\HandlingAdvancedExceptions\bin\Debug\net6.0\HandlingAdvancedExceptions.deps.json
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\HandlingAdvancedExceptionsApp\HandlingAdvancedExceptions\bin\Debug\net6.0\HandlingAdvancedExceptions.runtimeconfig.json
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\HandlingAdvancedExceptionsApp\HandlingAdvancedExceptions\bin\Debug\net6.0\HandlingAdvancedExceptions.dll
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\HandlingAdvancedExceptionsApp\HandlingAdvancedExceptions\bin\Debug\net6.0\HandlingAdvancedExceptions.pdb
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\HandlingAdvancedExceptionsApp\HandlingAdvancedExceptions\obj\Debug\net6.0\HandlingAdvancedExceptions.csproj.AssemblyReference.cache
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\HandlingAdvancedExceptionsApp\HandlingAdvancedExceptions\obj\Debug\net6.0\HandlingAdvancedExceptions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\HandlingAdvancedExceptionsApp\HandlingAdvancedExceptions\obj\Debug\net6.0\HandlingAdvancedExceptions.AssemblyInfoInputs.cache
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\HandlingAdvancedExceptionsApp\HandlingAdvancedExceptions\obj\Debug\net6.0\HandlingAdvancedExceptions.AssemblyInfo.cs
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\HandlingAdvancedExceptionsApp\HandlingAdvancedExceptions\obj\Debug\net6.0\HandlingAdvancedExceptions.csproj.CoreCompileInputs.cache
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\HandlingAdvancedExceptionsApp\HandlingAdvancedExceptions\obj\Debug\net6.0\HandlingAdvancedExceptions.dll
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\HandlingAdvancedExceptionsApp\HandlingAdvancedExceptions\obj\Debug\net6.0\refint\HandlingAdvancedExceptions.dll
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\HandlingAdvancedExceptionsApp\HandlingAdvancedExceptions\obj\Debug\net6.0\HandlingAdvancedExceptions.pdb
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\HandlingAdvancedExceptionsApp\HandlingAdvancedExceptions\obj\Debug\net6.0\HandlingAdvancedExceptions.genruntimeconfig.cache
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\HandlingAdvancedExceptionsApp\HandlingAdvancedExceptions\obj\Debug\net6.0\ref\HandlingAdvancedExceptions.dll

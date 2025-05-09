@@ -1,0 +1,15 @@
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\EventsProjectApp\EventsProject\bin\Debug\net6.0\EventsProject.exe
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\EventsProjectApp\EventsProject\bin\Debug\net6.0\EventsProject.deps.json
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\EventsProjectApp\EventsProject\bin\Debug\net6.0\EventsProject.runtimeconfig.json
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\EventsProjectApp\EventsProject\bin\Debug\net6.0\EventsProject.dll
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\EventsProjectApp\EventsProject\bin\Debug\net6.0\EventsProject.pdb
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\EventsProjectApp\EventsProject\obj\Debug\net6.0\EventsProject.csproj.AssemblyReference.cache
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\EventsProjectApp\EventsProject\obj\Debug\net6.0\EventsProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\EventsProjectApp\EventsProject\obj\Debug\net6.0\EventsProject.AssemblyInfoInputs.cache
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\EventsProjectApp\EventsProject\obj\Debug\net6.0\EventsProject.AssemblyInfo.cs
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\EventsProjectApp\EventsProject\obj\Debug\net6.0\EventsProject.csproj.CoreCompileInputs.cache
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\EventsProjectApp\EventsProject\obj\Debug\net6.0\EventsProject.dll
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\EventsProjectApp\EventsProject\obj\Debug\net6.0\refint\EventsProject.dll
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\EventsProjectApp\EventsProject\obj\Debug\net6.0\EventsProject.pdb
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\EventsProjectApp\EventsProject\obj\Debug\net6.0\EventsProject.genruntimeconfig.cache
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\EventsProjectApp\EventsProject\obj\Debug\net6.0\ref\EventsProject.dll

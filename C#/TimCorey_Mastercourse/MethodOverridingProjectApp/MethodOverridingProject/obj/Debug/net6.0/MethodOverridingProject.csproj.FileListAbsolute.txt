@@ -1,0 +1,15 @@
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\MethodOverridingProjectApp\MethodOverridingProject\bin\Debug\net6.0\MethodOverridingProject.exe
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\MethodOverridingProjectApp\MethodOverridingProject\bin\Debug\net6.0\MethodOverridingProject.deps.json
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\MethodOverridingProjectApp\MethodOverridingProject\bin\Debug\net6.0\MethodOverridingProject.runtimeconfig.json
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\MethodOverridingProjectApp\MethodOverridingProject\bin\Debug\net6.0\MethodOverridingProject.dll
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\MethodOverridingProjectApp\MethodOverridingProject\bin\Debug\net6.0\MethodOverridingProject.pdb
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\MethodOverridingProjectApp\MethodOverridingProject\obj\Debug\net6.0\MethodOverridingProject.csproj.AssemblyReference.cache
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\MethodOverridingProjectApp\MethodOverridingProject\obj\Debug\net6.0\MethodOverridingProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\MethodOverridingProjectApp\MethodOverridingProject\obj\Debug\net6.0\MethodOverridingProject.AssemblyInfoInputs.cache
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\MethodOverridingProjectApp\MethodOverridingProject\obj\Debug\net6.0\MethodOverridingProject.AssemblyInfo.cs
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\MethodOverridingProjectApp\MethodOverridingProject\obj\Debug\net6.0\MethodOverridingProject.csproj.CoreCompileInputs.cache
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\MethodOverridingProjectApp\MethodOverridingProject\obj\Debug\net6.0\MethodOverridingProject.dll
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\MethodOverridingProjectApp\MethodOverridingProject\obj\Debug\net6.0\refint\MethodOverridingProject.dll
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\MethodOverridingProjectApp\MethodOverridingProject\obj\Debug\net6.0\MethodOverridingProject.pdb
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\MethodOverridingProjectApp\MethodOverridingProject\obj\Debug\net6.0\MethodOverridingProject.genruntimeconfig.cache
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\MethodOverridingProjectApp\MethodOverridingProject\obj\Debug\net6.0\ref\MethodOverridingProject.dll

@@ -1,0 +1,15 @@
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\AdvancedExceptionsApp\AdvancedExceptions\bin\Debug\net6.0\AdvancedExceptions.exe
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\AdvancedExceptionsApp\AdvancedExceptions\bin\Debug\net6.0\AdvancedExceptions.deps.json
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\AdvancedExceptionsApp\AdvancedExceptions\bin\Debug\net6.0\AdvancedExceptions.runtimeconfig.json
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\AdvancedExceptionsApp\AdvancedExceptions\bin\Debug\net6.0\AdvancedExceptions.dll
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\AdvancedExceptionsApp\AdvancedExceptions\bin\Debug\net6.0\AdvancedExceptions.pdb
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\AdvancedExceptionsApp\AdvancedExceptions\obj\Debug\net6.0\AdvancedExceptions.csproj.AssemblyReference.cache
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\AdvancedExceptionsApp\AdvancedExceptions\obj\Debug\net6.0\AdvancedExceptions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\AdvancedExceptionsApp\AdvancedExceptions\obj\Debug\net6.0\AdvancedExceptions.AssemblyInfoInputs.cache
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\AdvancedExceptionsApp\AdvancedExceptions\obj\Debug\net6.0\AdvancedExceptions.AssemblyInfo.cs
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\AdvancedExceptionsApp\AdvancedExceptions\obj\Debug\net6.0\AdvancedExceptions.csproj.CoreCompileInputs.cache
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\AdvancedExceptionsApp\AdvancedExceptions\obj\Debug\net6.0\AdvancedExceptions.dll
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\AdvancedExceptionsApp\AdvancedExceptions\obj\Debug\net6.0\refint\AdvancedExceptions.dll
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\AdvancedExceptionsApp\AdvancedExceptions\obj\Debug\net6.0\AdvancedExceptions.pdb
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\AdvancedExceptionsApp\AdvancedExceptions\obj\Debug\net6.0\AdvancedExceptions.genruntimeconfig.cache
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\AdvancedExceptionsApp\AdvancedExceptions\obj\Debug\net6.0\ref\AdvancedExceptions.dll

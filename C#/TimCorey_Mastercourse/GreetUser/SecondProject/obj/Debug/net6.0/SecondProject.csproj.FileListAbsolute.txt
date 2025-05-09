@@ -1,0 +1,15 @@
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\GreetUser\SecondProject\bin\Debug\net6.0\SecondProject.exe
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\GreetUser\SecondProject\bin\Debug\net6.0\SecondProject.deps.json
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\GreetUser\SecondProject\bin\Debug\net6.0\SecondProject.runtimeconfig.json
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\GreetUser\SecondProject\bin\Debug\net6.0\SecondProject.dll
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\GreetUser\SecondProject\bin\Debug\net6.0\SecondProject.pdb
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\GreetUser\SecondProject\obj\Debug\net6.0\SecondProject.csproj.AssemblyReference.cache
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\GreetUser\SecondProject\obj\Debug\net6.0\SecondProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\GreetUser\SecondProject\obj\Debug\net6.0\SecondProject.AssemblyInfoInputs.cache
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\GreetUser\SecondProject\obj\Debug\net6.0\SecondProject.AssemblyInfo.cs
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\GreetUser\SecondProject\obj\Debug\net6.0\SecondProject.csproj.CoreCompileInputs.cache
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\GreetUser\SecondProject\obj\Debug\net6.0\SecondProject.dll
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\GreetUser\SecondProject\obj\Debug\net6.0\refint\SecondProject.dll
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\GreetUser\SecondProject\obj\Debug\net6.0\SecondProject.pdb
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\GreetUser\SecondProject\obj\Debug\net6.0\SecondProject.genruntimeconfig.cache
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\GreetUser\SecondProject\obj\Debug\net6.0\ref\SecondProject.dll

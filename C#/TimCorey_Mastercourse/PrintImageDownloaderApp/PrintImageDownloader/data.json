@@ -1,0 +1,141 @@
+{
+  "Id": "c6aa53fe-1064-4186-ada4-95124ba68b28",
+  "Name": "tuin30x40",
+  "ProductReference": "468228-30x40",
+  "EanCode": "7421901742791",
+  "GlobalProductId": "53a330b5-38dc-4762-bcef-0ae8b3dc0220",
+  "PrintImageId": "3a07be8c-be9e-418a-aa37-7245e36be48b",
+  "PrintImageSize": "30x40",
+  "WebstoreId": "edd4b923-849b-4460-91f6-7516257e78f7",
+  "WebstoreName": "Bol",
+  "Fields": [
+    {
+      "Name": "Number of Products in Package",
+      "Value": "1",
+      "MultiValue": false
+    },
+    {
+      "Name": "Game Merchandise Theme",
+      "Value": "N",
+      "MultiValue": false
+    },
+    {
+      "Name": "Especially for Christmas",
+      "Value": "N",
+      "MultiValue": false
+    },
+    {
+      "Name": "Seasonal Year",
+      "Value": "Never out of stock",
+      "MultiValue": false
+    },
+    {
+      "Name": "Seasonal Collection",
+      "Value": "Never out of stock",
+      "MultiValue": false
+    },
+    {
+      "Name": "Character",
+      "Value": "Geen personage",
+      "MultiValue": false
+    },
+    {
+      "Name": "Living Theme",
+      "Value": "Sport;Mensen",
+      "MultiValue": true
+    },
+    {
+      "Name": "Colour",
+      "Value": "Rood;Wit;Zwart",
+      "MultiValue": true
+    },
+    {
+      "Name": "Target Audience",
+      "Value": "Alle leeftijden",
+      "MultiValue": false
+    },
+    {
+      "Name": "Brand",
+      "Value": "KuijsFotoprint",
+      "MultiValue": false
+    },
+    {
+      "Name": "Number of Frames",
+      "Value": "1",
+      "MultiValue": false
+    },
+    {
+      "Name": "Including Frame",
+      "Value": "N",
+      "MultiValue": false
+    },
+    {
+      "Name": "Product Width",
+      "Value": "30",
+      "MultiValue": false
+    },
+    {
+      "Name": "Product Length",
+      "Value": "40",
+      "MultiValue": false
+    },
+    {
+      "Name": "Hand Painted",
+      "Value": "N",
+      "MultiValue": false
+    },
+    {
+      "Name": "Product Classification",
+      "Value": "Poster",
+      "MultiValue": false
+    },
+    {
+      "Name": "Shape",
+      "Value": "Rechthoek",
+      "MultiValue": false
+    },
+    {
+      "Name": "Indoor or Outdoor",
+      "Value": "Voor binnen &amp; buiten",
+      "MultiValue": false
+    },
+    {
+      "Name": "Name",
+      "Value": "Tuinposter – Rode Ski's in Skilift   - 30x40cm Foto op Tuinposter  (wanddecoratie voor buiten en binnen)",
+      "MultiValue": false
+    },
+    {
+      "Name": "Description",
+      "Value": "Tuinposter – Rode Ski's in Skilift   - 30x40cm Foto op Tuinposter  (wanddecoratie voor buiten en binnen)<br/><br/><b>Hoge Kwaliteit Tuinposter</b><br/><br/>De tuinposter is binnen en buiten te gebruiken en is voorzien van een B1-brandcertificaat. Door de UV-print techniek verkleurt deze tuinposter niet in de zon. De tuinposter is gemaakt van een lichte structuur zodat de foto haarscherp te zien is. De poster is voorzien van ringen in alle 4 de hoeken. De tuinposter is gemaakt van PVC en waterafstotend.<br/><br/><b>Tuinposter</b><br/><UL TYPE=\"disc\"><LI><b>Verkleurd niet</b></LI><br/><LI><b>Ringen in alle 4 de hoeken</b></LI><br/><LI><b>B1-brandcertificaat</b></LI><br/><LI><b>Gemaakt van PVC</b></LI><br/><LI><b>Waterafstotend</b></LI><br/></UL>",
+      "MultiValue": false
+    },
+    {
+      "Name": "Material",
+      "Value": "Kunststof",
+      "MultiValue": false
+    },
+    {
+      "Name": "Especially for Children",
+      "Value": "N",
+      "MultiValue": false
+    },
+    {
+      "Name": "Especially for Nusery",
+      "Value": "N",
+      "MultiValue": false
+    },
+    {
+      "Name": "Manual",
+      "Value": "https://kuijsfotoprint.nl/Handleidingen/Handleiding_Algemeen.pdf",
+      "MultiValue": false
+    },
+    {
+      "Name": "Price",
+      "Value": "17,95",
+      "MultiValue": false
+    }
+  ],
+  "OverlayImageIds": [ "https://bibocraftseu.blob.core.windows.net/overlay-image/5468b305-5666-451e-9119-ba58c9cbe371/68d9a0e8-fe36-4194-ac4e-55eaf77a62a1" ],
+  "StaticImages": []
+}
+

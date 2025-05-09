@@ -1,0 +1,15 @@
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\StaticClassesApp\StaticClasses\bin\Debug\net6.0\StaticClasses.exe
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\StaticClassesApp\StaticClasses\bin\Debug\net6.0\StaticClasses.deps.json
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\StaticClassesApp\StaticClasses\bin\Debug\net6.0\StaticClasses.runtimeconfig.json
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\StaticClassesApp\StaticClasses\bin\Debug\net6.0\StaticClasses.dll
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\StaticClassesApp\StaticClasses\bin\Debug\net6.0\StaticClasses.pdb
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\StaticClassesApp\StaticClasses\obj\Debug\net6.0\StaticClasses.csproj.AssemblyReference.cache
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\StaticClassesApp\StaticClasses\obj\Debug\net6.0\StaticClasses.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\StaticClassesApp\StaticClasses\obj\Debug\net6.0\StaticClasses.AssemblyInfoInputs.cache
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\StaticClassesApp\StaticClasses\obj\Debug\net6.0\StaticClasses.AssemblyInfo.cs
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\StaticClassesApp\StaticClasses\obj\Debug\net6.0\StaticClasses.csproj.CoreCompileInputs.cache
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\StaticClassesApp\StaticClasses\obj\Debug\net6.0\StaticClasses.dll
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\StaticClassesApp\StaticClasses\obj\Debug\net6.0\refint\StaticClasses.dll
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\StaticClassesApp\StaticClasses\obj\Debug\net6.0\StaticClasses.pdb
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\StaticClassesApp\StaticClasses\obj\Debug\net6.0\StaticClasses.genruntimeconfig.cache
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\StaticClassesApp\StaticClasses\obj\Debug\net6.0\ref\StaticClasses.dll

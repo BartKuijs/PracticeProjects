@@ -1,0 +1,12 @@
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\CardGamesHomeWorkProjectApp\CardGamesLibrary\bin\Debug\net6.0\CardGamesLibrary.deps.json
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\CardGamesHomeWorkProjectApp\CardGamesLibrary\bin\Debug\net6.0\CardGamesLibrary.dll
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\CardGamesHomeWorkProjectApp\CardGamesLibrary\bin\Debug\net6.0\CardGamesLibrary.pdb
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\CardGamesHomeWorkProjectApp\CardGamesLibrary\obj\Debug\net6.0\CardGamesLibrary.csproj.AssemblyReference.cache
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\CardGamesHomeWorkProjectApp\CardGamesLibrary\obj\Debug\net6.0\CardGamesLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\CardGamesHomeWorkProjectApp\CardGamesLibrary\obj\Debug\net6.0\CardGamesLibrary.AssemblyInfoInputs.cache
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\CardGamesHomeWorkProjectApp\CardGamesLibrary\obj\Debug\net6.0\CardGamesLibrary.AssemblyInfo.cs
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\CardGamesHomeWorkProjectApp\CardGamesLibrary\obj\Debug\net6.0\CardGamesLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\CardGamesHomeWorkProjectApp\CardGamesLibrary\obj\Debug\net6.0\CardGamesLibrary.dll
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\CardGamesHomeWorkProjectApp\CardGamesLibrary\obj\Debug\net6.0\refint\CardGamesLibrary.dll
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\CardGamesHomeWorkProjectApp\CardGamesLibrary\obj\Debug\net6.0\CardGamesLibrary.pdb
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\CardGamesHomeWorkProjectApp\CardGamesLibrary\obj\Debug\net6.0\ref\CardGamesLibrary.dll

@@ -1,0 +1,15 @@
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\GuestBookMiniProjectApp\GuestBookMiniProject\bin\Debug\net6.0\GuestBookMiniProject.exe
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\GuestBookMiniProjectApp\GuestBookMiniProject\bin\Debug\net6.0\GuestBookMiniProject.deps.json
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\GuestBookMiniProjectApp\GuestBookMiniProject\bin\Debug\net6.0\GuestBookMiniProject.runtimeconfig.json
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\GuestBookMiniProjectApp\GuestBookMiniProject\bin\Debug\net6.0\GuestBookMiniProject.dll
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\GuestBookMiniProjectApp\GuestBookMiniProject\bin\Debug\net6.0\GuestBookMiniProject.pdb
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\GuestBookMiniProjectApp\GuestBookMiniProject\obj\Debug\net6.0\GuestBookMiniProject.csproj.AssemblyReference.cache
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\GuestBookMiniProjectApp\GuestBookMiniProject\obj\Debug\net6.0\GuestBookMiniProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\GuestBookMiniProjectApp\GuestBookMiniProject\obj\Debug\net6.0\GuestBookMiniProject.AssemblyInfoInputs.cache
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\GuestBookMiniProjectApp\GuestBookMiniProject\obj\Debug\net6.0\GuestBookMiniProject.AssemblyInfo.cs
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\GuestBookMiniProjectApp\GuestBookMiniProject\obj\Debug\net6.0\GuestBookMiniProject.csproj.CoreCompileInputs.cache
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\GuestBookMiniProjectApp\GuestBookMiniProject\obj\Debug\net6.0\GuestBookMiniProject.dll
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\GuestBookMiniProjectApp\GuestBookMiniProject\obj\Debug\net6.0\refint\GuestBookMiniProject.dll
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\GuestBookMiniProjectApp\GuestBookMiniProject\obj\Debug\net6.0\GuestBookMiniProject.pdb
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\GuestBookMiniProjectApp\GuestBookMiniProject\obj\Debug\net6.0\GuestBookMiniProject.genruntimeconfig.cache
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\GuestBookMiniProjectApp\GuestBookMiniProject\obj\Debug\net6.0\ref\GuestBookMiniProject.dll

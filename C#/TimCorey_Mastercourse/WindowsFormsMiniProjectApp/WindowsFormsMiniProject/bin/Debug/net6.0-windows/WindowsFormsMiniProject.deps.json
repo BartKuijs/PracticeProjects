@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "WindowsFormsMiniProject/1.0.0": {
+        "dependencies": {
+          "DemoLibrary": "1.0.0"
+        },
+        "runtime": {
+          "WindowsFormsMiniProject.dll": {}
+        }
+      },
+      "DemoLibrary/1.0.0": {
+        "runtime": {
+          "DemoLibrary.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "WindowsFormsMiniProject/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DemoLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

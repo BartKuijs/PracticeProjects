@@ -1,0 +1,15 @@
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\MethodsHomeworkApp\MethodsHomework\bin\Debug\net6.0\MethodsHomework.exe
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\MethodsHomeworkApp\MethodsHomework\bin\Debug\net6.0\MethodsHomework.deps.json
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\MethodsHomeworkApp\MethodsHomework\bin\Debug\net6.0\MethodsHomework.runtimeconfig.json
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\MethodsHomeworkApp\MethodsHomework\bin\Debug\net6.0\MethodsHomework.dll
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\MethodsHomeworkApp\MethodsHomework\bin\Debug\net6.0\MethodsHomework.pdb
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\MethodsHomeworkApp\MethodsHomework\obj\Debug\net6.0\MethodsHomework.csproj.AssemblyReference.cache
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\MethodsHomeworkApp\MethodsHomework\obj\Debug\net6.0\MethodsHomework.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\MethodsHomeworkApp\MethodsHomework\obj\Debug\net6.0\MethodsHomework.AssemblyInfoInputs.cache
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\MethodsHomeworkApp\MethodsHomework\obj\Debug\net6.0\MethodsHomework.AssemblyInfo.cs
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\MethodsHomeworkApp\MethodsHomework\obj\Debug\net6.0\MethodsHomework.csproj.CoreCompileInputs.cache
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\MethodsHomeworkApp\MethodsHomework\obj\Debug\net6.0\MethodsHomework.dll
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\MethodsHomeworkApp\MethodsHomework\obj\Debug\net6.0\refint\MethodsHomework.dll
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\MethodsHomeworkApp\MethodsHomework\obj\Debug\net6.0\MethodsHomework.pdb
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\MethodsHomeworkApp\MethodsHomework\obj\Debug\net6.0\MethodsHomework.genruntimeconfig.cache
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\MethodsHomeworkApp\MethodsHomework\obj\Debug\net6.0\ref\MethodsHomework.dll

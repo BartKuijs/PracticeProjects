@@ -1,0 +1,15 @@
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\EventsProjectApp\EventsHomework\bin\Debug\net6.0\EventsHomework.exe
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\EventsProjectApp\EventsHomework\bin\Debug\net6.0\EventsHomework.deps.json
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\EventsProjectApp\EventsHomework\bin\Debug\net6.0\EventsHomework.runtimeconfig.json
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\EventsProjectApp\EventsHomework\bin\Debug\net6.0\EventsHomework.dll
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\EventsProjectApp\EventsHomework\bin\Debug\net6.0\EventsHomework.pdb
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\EventsProjectApp\EventsHomework\obj\Debug\net6.0\EventsHomework.csproj.AssemblyReference.cache
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\EventsProjectApp\EventsHomework\obj\Debug\net6.0\EventsHomework.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\EventsProjectApp\EventsHomework\obj\Debug\net6.0\EventsHomework.AssemblyInfoInputs.cache
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\EventsProjectApp\EventsHomework\obj\Debug\net6.0\EventsHomework.AssemblyInfo.cs
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\EventsProjectApp\EventsHomework\obj\Debug\net6.0\EventsHomework.csproj.CoreCompileInputs.cache
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\EventsProjectApp\EventsHomework\obj\Debug\net6.0\EventsHomework.dll
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\EventsProjectApp\EventsHomework\obj\Debug\net6.0\refint\EventsHomework.dll
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\EventsProjectApp\EventsHomework\obj\Debug\net6.0\EventsHomework.pdb
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\EventsProjectApp\EventsHomework\obj\Debug\net6.0\EventsHomework.genruntimeconfig.cache
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\EventsProjectApp\EventsHomework\obj\Debug\net6.0\ref\EventsHomework.dll

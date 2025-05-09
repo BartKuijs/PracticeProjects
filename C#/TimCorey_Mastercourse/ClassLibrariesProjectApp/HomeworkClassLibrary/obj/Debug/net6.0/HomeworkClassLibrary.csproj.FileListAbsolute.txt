@@ -1,0 +1,12 @@
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\ClassLibrariesProjectApp\HomeworkClassLibrary\bin\Debug\net6.0\HomeworkClassLibrary.deps.json
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\ClassLibrariesProjectApp\HomeworkClassLibrary\bin\Debug\net6.0\HomeworkClassLibrary.dll
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\ClassLibrariesProjectApp\HomeworkClassLibrary\bin\Debug\net6.0\HomeworkClassLibrary.pdb
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\ClassLibrariesProjectApp\HomeworkClassLibrary\obj\Debug\net6.0\HomeworkClassLibrary.csproj.AssemblyReference.cache
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\ClassLibrariesProjectApp\HomeworkClassLibrary\obj\Debug\net6.0\HomeworkClassLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\ClassLibrariesProjectApp\HomeworkClassLibrary\obj\Debug\net6.0\HomeworkClassLibrary.AssemblyInfoInputs.cache
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\ClassLibrariesProjectApp\HomeworkClassLibrary\obj\Debug\net6.0\HomeworkClassLibrary.AssemblyInfo.cs
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\ClassLibrariesProjectApp\HomeworkClassLibrary\obj\Debug\net6.0\HomeworkClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\ClassLibrariesProjectApp\HomeworkClassLibrary\obj\Debug\net6.0\HomeworkClassLibrary.dll
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\ClassLibrariesProjectApp\HomeworkClassLibrary\obj\Debug\net6.0\refint\HomeworkClassLibrary.dll
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\ClassLibrariesProjectApp\HomeworkClassLibrary\obj\Debug\net6.0\HomeworkClassLibrary.pdb
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\ClassLibrariesProjectApp\HomeworkClassLibrary\obj\Debug\net6.0\ref\HomeworkClassLibrary.dll

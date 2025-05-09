@@ -1,0 +1,15 @@
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\DoubleVariablesApp\DoubleVariablesPractice\bin\Debug\net6.0\DoubleVariablesPractice.exe
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\DoubleVariablesApp\DoubleVariablesPractice\bin\Debug\net6.0\DoubleVariablesPractice.deps.json
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\DoubleVariablesApp\DoubleVariablesPractice\bin\Debug\net6.0\DoubleVariablesPractice.runtimeconfig.json
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\DoubleVariablesApp\DoubleVariablesPractice\bin\Debug\net6.0\DoubleVariablesPractice.dll
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\DoubleVariablesApp\DoubleVariablesPractice\bin\Debug\net6.0\DoubleVariablesPractice.pdb
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\DoubleVariablesApp\DoubleVariablesPractice\obj\Debug\net6.0\DoubleVariablesPractice.csproj.AssemblyReference.cache
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\DoubleVariablesApp\DoubleVariablesPractice\obj\Debug\net6.0\DoubleVariablesPractice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\DoubleVariablesApp\DoubleVariablesPractice\obj\Debug\net6.0\DoubleVariablesPractice.AssemblyInfoInputs.cache
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\DoubleVariablesApp\DoubleVariablesPractice\obj\Debug\net6.0\DoubleVariablesPractice.AssemblyInfo.cs
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\DoubleVariablesApp\DoubleVariablesPractice\obj\Debug\net6.0\DoubleVariablesPractice.csproj.CoreCompileInputs.cache
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\DoubleVariablesApp\DoubleVariablesPractice\obj\Debug\net6.0\DoubleVariablesPractice.dll
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\DoubleVariablesApp\DoubleVariablesPractice\obj\Debug\net6.0\refint\DoubleVariablesPractice.dll
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\DoubleVariablesApp\DoubleVariablesPractice\obj\Debug\net6.0\DoubleVariablesPractice.pdb
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\DoubleVariablesApp\DoubleVariablesPractice\obj\Debug\net6.0\DoubleVariablesPractice.genruntimeconfig.cache
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\DoubleVariablesApp\DoubleVariablesPractice\obj\Debug\net6.0\ref\DoubleVariablesPractice.dll

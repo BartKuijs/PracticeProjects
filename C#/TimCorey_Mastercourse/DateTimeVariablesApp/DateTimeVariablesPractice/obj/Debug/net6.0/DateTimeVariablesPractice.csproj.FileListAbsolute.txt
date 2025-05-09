@@ -1,0 +1,15 @@
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\DateTimeVariablesApp\DateTimeVariablesPractice\bin\Debug\net6.0\DateTimeVariablesPractice.exe
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\DateTimeVariablesApp\DateTimeVariablesPractice\bin\Debug\net6.0\DateTimeVariablesPractice.deps.json
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\DateTimeVariablesApp\DateTimeVariablesPractice\bin\Debug\net6.0\DateTimeVariablesPractice.runtimeconfig.json
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\DateTimeVariablesApp\DateTimeVariablesPractice\bin\Debug\net6.0\DateTimeVariablesPractice.dll
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\DateTimeVariablesApp\DateTimeVariablesPractice\bin\Debug\net6.0\DateTimeVariablesPractice.pdb
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\DateTimeVariablesApp\DateTimeVariablesPractice\obj\Debug\net6.0\DateTimeVariablesPractice.csproj.AssemblyReference.cache
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\DateTimeVariablesApp\DateTimeVariablesPractice\obj\Debug\net6.0\DateTimeVariablesPractice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\DateTimeVariablesApp\DateTimeVariablesPractice\obj\Debug\net6.0\DateTimeVariablesPractice.AssemblyInfoInputs.cache
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\DateTimeVariablesApp\DateTimeVariablesPractice\obj\Debug\net6.0\DateTimeVariablesPractice.AssemblyInfo.cs
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\DateTimeVariablesApp\DateTimeVariablesPractice\obj\Debug\net6.0\DateTimeVariablesPractice.csproj.CoreCompileInputs.cache
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\DateTimeVariablesApp\DateTimeVariablesPractice\obj\Debug\net6.0\DateTimeVariablesPractice.dll
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\DateTimeVariablesApp\DateTimeVariablesPractice\obj\Debug\net6.0\refint\DateTimeVariablesPractice.dll
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\DateTimeVariablesApp\DateTimeVariablesPractice\obj\Debug\net6.0\DateTimeVariablesPractice.pdb
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\DateTimeVariablesApp\DateTimeVariablesPractice\obj\Debug\net6.0\DateTimeVariablesPractice.genruntimeconfig.cache
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\DateTimeVariablesApp\DateTimeVariablesPractice\obj\Debug\net6.0\ref\DateTimeVariablesPractice.dll

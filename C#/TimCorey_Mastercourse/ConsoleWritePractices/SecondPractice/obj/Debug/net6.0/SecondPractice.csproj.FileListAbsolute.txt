@@ -1,0 +1,15 @@
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\ConsoleWritePractices\SecondPractice\bin\Debug\net6.0\SecondPractice.exe
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\ConsoleWritePractices\SecondPractice\bin\Debug\net6.0\SecondPractice.deps.json
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\ConsoleWritePractices\SecondPractice\bin\Debug\net6.0\SecondPractice.runtimeconfig.json
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\ConsoleWritePractices\SecondPractice\bin\Debug\net6.0\SecondPractice.dll
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\ConsoleWritePractices\SecondPractice\bin\Debug\net6.0\SecondPractice.pdb
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\ConsoleWritePractices\SecondPractice\obj\Debug\net6.0\SecondPractice.csproj.AssemblyReference.cache
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\ConsoleWritePractices\SecondPractice\obj\Debug\net6.0\SecondPractice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\ConsoleWritePractices\SecondPractice\obj\Debug\net6.0\SecondPractice.AssemblyInfoInputs.cache
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\ConsoleWritePractices\SecondPractice\obj\Debug\net6.0\SecondPractice.AssemblyInfo.cs
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\ConsoleWritePractices\SecondPractice\obj\Debug\net6.0\SecondPractice.csproj.CoreCompileInputs.cache
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\ConsoleWritePractices\SecondPractice\obj\Debug\net6.0\SecondPractice.dll
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\ConsoleWritePractices\SecondPractice\obj\Debug\net6.0\refint\SecondPractice.dll
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\ConsoleWritePractices\SecondPractice\obj\Debug\net6.0\SecondPractice.pdb
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\ConsoleWritePractices\SecondPractice\obj\Debug\net6.0\SecondPractice.genruntimeconfig.cache
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\ConsoleWritePractices\SecondPractice\obj\Debug\net6.0\ref\SecondPractice.dll

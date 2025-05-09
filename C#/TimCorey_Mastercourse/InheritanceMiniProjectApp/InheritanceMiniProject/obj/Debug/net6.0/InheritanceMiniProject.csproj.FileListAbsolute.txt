@@ -1,0 +1,15 @@
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\InheritanceMiniProjectApp\InheritanceMiniProject\bin\Debug\net6.0\InheritanceMiniProject.exe
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\InheritanceMiniProjectApp\InheritanceMiniProject\bin\Debug\net6.0\InheritanceMiniProject.deps.json
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\InheritanceMiniProjectApp\InheritanceMiniProject\bin\Debug\net6.0\InheritanceMiniProject.runtimeconfig.json
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\InheritanceMiniProjectApp\InheritanceMiniProject\bin\Debug\net6.0\InheritanceMiniProject.dll
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\InheritanceMiniProjectApp\InheritanceMiniProject\bin\Debug\net6.0\InheritanceMiniProject.pdb
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\InheritanceMiniProjectApp\InheritanceMiniProject\obj\Debug\net6.0\InheritanceMiniProject.csproj.AssemblyReference.cache
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\InheritanceMiniProjectApp\InheritanceMiniProject\obj\Debug\net6.0\InheritanceMiniProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\InheritanceMiniProjectApp\InheritanceMiniProject\obj\Debug\net6.0\InheritanceMiniProject.AssemblyInfoInputs.cache
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\InheritanceMiniProjectApp\InheritanceMiniProject\obj\Debug\net6.0\InheritanceMiniProject.AssemblyInfo.cs
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\InheritanceMiniProjectApp\InheritanceMiniProject\obj\Debug\net6.0\InheritanceMiniProject.csproj.CoreCompileInputs.cache
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\InheritanceMiniProjectApp\InheritanceMiniProject\obj\Debug\net6.0\InheritanceMiniProject.dll
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\InheritanceMiniProjectApp\InheritanceMiniProject\obj\Debug\net6.0\refint\InheritanceMiniProject.dll
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\InheritanceMiniProjectApp\InheritanceMiniProject\obj\Debug\net6.0\InheritanceMiniProject.pdb
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\InheritanceMiniProjectApp\InheritanceMiniProject\obj\Debug\net6.0\InheritanceMiniProject.genruntimeconfig.cache
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\InheritanceMiniProjectApp\InheritanceMiniProject\obj\Debug\net6.0\ref\InheritanceMiniProject.dll

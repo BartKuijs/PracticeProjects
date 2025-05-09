@@ -1,0 +1,15 @@
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\PropertyTypesApp\PropertyTypes\bin\Debug\net6.0\PropertyTypes.exe
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\PropertyTypesApp\PropertyTypes\bin\Debug\net6.0\PropertyTypes.deps.json
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\PropertyTypesApp\PropertyTypes\bin\Debug\net6.0\PropertyTypes.runtimeconfig.json
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\PropertyTypesApp\PropertyTypes\bin\Debug\net6.0\PropertyTypes.dll
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\PropertyTypesApp\PropertyTypes\bin\Debug\net6.0\PropertyTypes.pdb
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\PropertyTypesApp\PropertyTypes\obj\Debug\net6.0\PropertyTypes.csproj.AssemblyReference.cache
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\PropertyTypesApp\PropertyTypes\obj\Debug\net6.0\PropertyTypes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\PropertyTypesApp\PropertyTypes\obj\Debug\net6.0\PropertyTypes.AssemblyInfoInputs.cache
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\PropertyTypesApp\PropertyTypes\obj\Debug\net6.0\PropertyTypes.AssemblyInfo.cs
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\PropertyTypesApp\PropertyTypes\obj\Debug\net6.0\PropertyTypes.csproj.CoreCompileInputs.cache
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\PropertyTypesApp\PropertyTypes\obj\Debug\net6.0\PropertyTypes.dll
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\PropertyTypesApp\PropertyTypes\obj\Debug\net6.0\refint\PropertyTypes.dll
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\PropertyTypesApp\PropertyTypes\obj\Debug\net6.0\PropertyTypes.pdb
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\PropertyTypesApp\PropertyTypes\obj\Debug\net6.0\PropertyTypes.genruntimeconfig.cache
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\PropertyTypesApp\PropertyTypes\obj\Debug\net6.0\ref\PropertyTypes.dll

@@ -1,0 +1,15 @@
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\DecimalVariablesApp\DecimalVariables\bin\Debug\net6.0\DecimalVariables.exe
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\DecimalVariablesApp\DecimalVariables\bin\Debug\net6.0\DecimalVariables.deps.json
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\DecimalVariablesApp\DecimalVariables\bin\Debug\net6.0\DecimalVariables.runtimeconfig.json
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\DecimalVariablesApp\DecimalVariables\bin\Debug\net6.0\DecimalVariables.dll
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\DecimalVariablesApp\DecimalVariables\bin\Debug\net6.0\DecimalVariables.pdb
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\DecimalVariablesApp\DecimalVariables\obj\Debug\net6.0\DecimalVariables.csproj.AssemblyReference.cache
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\DecimalVariablesApp\DecimalVariables\obj\Debug\net6.0\DecimalVariables.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\DecimalVariablesApp\DecimalVariables\obj\Debug\net6.0\DecimalVariables.AssemblyInfoInputs.cache
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\DecimalVariablesApp\DecimalVariables\obj\Debug\net6.0\DecimalVariables.AssemblyInfo.cs
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\DecimalVariablesApp\DecimalVariables\obj\Debug\net6.0\DecimalVariables.csproj.CoreCompileInputs.cache
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\DecimalVariablesApp\DecimalVariables\obj\Debug\net6.0\DecimalVariables.dll
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\DecimalVariablesApp\DecimalVariables\obj\Debug\net6.0\refint\DecimalVariables.dll
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\DecimalVariablesApp\DecimalVariables\obj\Debug\net6.0\DecimalVariables.pdb
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\DecimalVariablesApp\DecimalVariables\obj\Debug\net6.0\DecimalVariables.genruntimeconfig.cache
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\DecimalVariablesApp\DecimalVariables\obj\Debug\net6.0\ref\DecimalVariables.dll

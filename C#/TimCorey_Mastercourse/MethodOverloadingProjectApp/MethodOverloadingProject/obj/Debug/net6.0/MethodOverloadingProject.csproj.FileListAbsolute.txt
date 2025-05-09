@@ -1,0 +1,15 @@
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\MethodOverloadingProjectApp\MethodOverloadingProject\bin\Debug\net6.0\MethodOverloadingProject.exe
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\MethodOverloadingProjectApp\MethodOverloadingProject\bin\Debug\net6.0\MethodOverloadingProject.deps.json
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\MethodOverloadingProjectApp\MethodOverloadingProject\bin\Debug\net6.0\MethodOverloadingProject.runtimeconfig.json
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\MethodOverloadingProjectApp\MethodOverloadingProject\bin\Debug\net6.0\MethodOverloadingProject.dll
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\MethodOverloadingProjectApp\MethodOverloadingProject\bin\Debug\net6.0\MethodOverloadingProject.pdb
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\MethodOverloadingProjectApp\MethodOverloadingProject\obj\Debug\net6.0\MethodOverloadingProject.csproj.AssemblyReference.cache
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\MethodOverloadingProjectApp\MethodOverloadingProject\obj\Debug\net6.0\MethodOverloadingProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\MethodOverloadingProjectApp\MethodOverloadingProject\obj\Debug\net6.0\MethodOverloadingProject.AssemblyInfoInputs.cache
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\MethodOverloadingProjectApp\MethodOverloadingProject\obj\Debug\net6.0\MethodOverloadingProject.AssemblyInfo.cs
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\MethodOverloadingProjectApp\MethodOverloadingProject\obj\Debug\net6.0\MethodOverloadingProject.csproj.CoreCompileInputs.cache
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\MethodOverloadingProjectApp\MethodOverloadingProject\obj\Debug\net6.0\MethodOverloadingProject.dll
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\MethodOverloadingProjectApp\MethodOverloadingProject\obj\Debug\net6.0\refint\MethodOverloadingProject.dll
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\MethodOverloadingProjectApp\MethodOverloadingProject\obj\Debug\net6.0\MethodOverloadingProject.pdb
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\MethodOverloadingProjectApp\MethodOverloadingProject\obj\Debug\net6.0\MethodOverloadingProject.genruntimeconfig.cache
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\MethodOverloadingProjectApp\MethodOverloadingProject\obj\Debug\net6.0\ref\MethodOverloadingProject.dll

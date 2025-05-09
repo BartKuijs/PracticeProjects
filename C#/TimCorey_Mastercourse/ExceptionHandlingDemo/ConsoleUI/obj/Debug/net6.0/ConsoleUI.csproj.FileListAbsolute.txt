@@ -1,0 +1,15 @@
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\ExceptionHandlingDemo\ConsoleUI\bin\Debug\net6.0\ConsoleUI.exe
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\ExceptionHandlingDemo\ConsoleUI\bin\Debug\net6.0\ConsoleUI.deps.json
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\ExceptionHandlingDemo\ConsoleUI\bin\Debug\net6.0\ConsoleUI.runtimeconfig.json
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\ExceptionHandlingDemo\ConsoleUI\bin\Debug\net6.0\ConsoleUI.dll
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\ExceptionHandlingDemo\ConsoleUI\bin\Debug\net6.0\ConsoleUI.pdb
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\ExceptionHandlingDemo\ConsoleUI\obj\Debug\net6.0\ConsoleUI.csproj.AssemblyReference.cache
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\ExceptionHandlingDemo\ConsoleUI\obj\Debug\net6.0\ConsoleUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\ExceptionHandlingDemo\ConsoleUI\obj\Debug\net6.0\ConsoleUI.AssemblyInfoInputs.cache
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\ExceptionHandlingDemo\ConsoleUI\obj\Debug\net6.0\ConsoleUI.AssemblyInfo.cs
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\ExceptionHandlingDemo\ConsoleUI\obj\Debug\net6.0\ConsoleUI.csproj.CoreCompileInputs.cache
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\ExceptionHandlingDemo\ConsoleUI\obj\Debug\net6.0\ConsoleUI.dll
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\ExceptionHandlingDemo\ConsoleUI\obj\Debug\net6.0\refint\ConsoleUI.dll
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\ExceptionHandlingDemo\ConsoleUI\obj\Debug\net6.0\ConsoleUI.pdb
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\ExceptionHandlingDemo\ConsoleUI\obj\Debug\net6.0\ConsoleUI.genruntimeconfig.cache
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\ExceptionHandlingDemo\ConsoleUI\obj\Debug\net6.0\ref\ConsoleUI.dll

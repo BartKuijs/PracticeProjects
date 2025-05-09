@@ -1,0 +1,15 @@
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\MiniGameProjectApp\MiniGameProject\bin\Debug\net6.0\MiniGameProject.exe
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\MiniGameProjectApp\MiniGameProject\bin\Debug\net6.0\MiniGameProject.deps.json
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\MiniGameProjectApp\MiniGameProject\bin\Debug\net6.0\MiniGameProject.runtimeconfig.json
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\MiniGameProjectApp\MiniGameProject\bin\Debug\net6.0\MiniGameProject.dll
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\MiniGameProjectApp\MiniGameProject\bin\Debug\net6.0\MiniGameProject.pdb
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\MiniGameProjectApp\MiniGameProject\obj\Debug\net6.0\MiniGameProject.csproj.AssemblyReference.cache
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\MiniGameProjectApp\MiniGameProject\obj\Debug\net6.0\MiniGameProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\MiniGameProjectApp\MiniGameProject\obj\Debug\net6.0\MiniGameProject.AssemblyInfoInputs.cache
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\MiniGameProjectApp\MiniGameProject\obj\Debug\net6.0\MiniGameProject.AssemblyInfo.cs
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\MiniGameProjectApp\MiniGameProject\obj\Debug\net6.0\MiniGameProject.csproj.CoreCompileInputs.cache
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\MiniGameProjectApp\MiniGameProject\obj\Debug\net6.0\MiniGameProject.dll
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\MiniGameProjectApp\MiniGameProject\obj\Debug\net6.0\refint\MiniGameProject.dll
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\MiniGameProjectApp\MiniGameProject\obj\Debug\net6.0\MiniGameProject.pdb
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\MiniGameProjectApp\MiniGameProject\obj\Debug\net6.0\MiniGameProject.genruntimeconfig.cache
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\MiniGameProjectApp\MiniGameProject\obj\Debug\net6.0\ref\MiniGameProject.dll

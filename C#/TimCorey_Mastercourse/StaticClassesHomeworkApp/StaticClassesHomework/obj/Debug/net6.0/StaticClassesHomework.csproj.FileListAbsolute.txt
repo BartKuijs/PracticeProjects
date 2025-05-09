@@ -1,0 +1,15 @@
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\StaticClassesHomeworkApp\StaticClassesHomework\bin\Debug\net6.0\StaticClassesHomework.exe
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\StaticClassesHomeworkApp\StaticClassesHomework\bin\Debug\net6.0\StaticClassesHomework.deps.json
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\StaticClassesHomeworkApp\StaticClassesHomework\bin\Debug\net6.0\StaticClassesHomework.runtimeconfig.json
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\StaticClassesHomeworkApp\StaticClassesHomework\bin\Debug\net6.0\StaticClassesHomework.dll
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\StaticClassesHomeworkApp\StaticClassesHomework\bin\Debug\net6.0\StaticClassesHomework.pdb
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\StaticClassesHomeworkApp\StaticClassesHomework\obj\Debug\net6.0\StaticClassesHomework.csproj.AssemblyReference.cache
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\StaticClassesHomeworkApp\StaticClassesHomework\obj\Debug\net6.0\StaticClassesHomework.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\StaticClassesHomeworkApp\StaticClassesHomework\obj\Debug\net6.0\StaticClassesHomework.AssemblyInfoInputs.cache
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\StaticClassesHomeworkApp\StaticClassesHomework\obj\Debug\net6.0\StaticClassesHomework.AssemblyInfo.cs
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\StaticClassesHomeworkApp\StaticClassesHomework\obj\Debug\net6.0\StaticClassesHomework.csproj.CoreCompileInputs.cache
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\StaticClassesHomeworkApp\StaticClassesHomework\obj\Debug\net6.0\StaticClassesHomework.dll
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\StaticClassesHomeworkApp\StaticClassesHomework\obj\Debug\net6.0\refint\StaticClassesHomework.dll
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\StaticClassesHomeworkApp\StaticClassesHomework\obj\Debug\net6.0\StaticClassesHomework.pdb
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\StaticClassesHomeworkApp\StaticClassesHomework\obj\Debug\net6.0\StaticClassesHomework.genruntimeconfig.cache
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\StaticClassesHomeworkApp\StaticClassesHomework\obj\Debug\net6.0\ref\StaticClassesHomework.dll

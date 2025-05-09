@@ -1,0 +1,17 @@
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\PrintImageDownloaderApp\PrintImageDownloader\bin\Debug\net6.0\PrintImageDownloader.exe
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\PrintImageDownloaderApp\PrintImageDownloader\bin\Debug\net6.0\PrintImageDownloader.deps.json
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\PrintImageDownloaderApp\PrintImageDownloader\bin\Debug\net6.0\PrintImageDownloader.runtimeconfig.json
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\PrintImageDownloaderApp\PrintImageDownloader\bin\Debug\net6.0\PrintImageDownloader.dll
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\PrintImageDownloaderApp\PrintImageDownloader\bin\Debug\net6.0\PrintImageDownloader.pdb
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\PrintImageDownloaderApp\PrintImageDownloader\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\PrintImageDownloaderApp\PrintImageDownloader\obj\Debug\net6.0\PrintImageDownloader.csproj.AssemblyReference.cache
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\PrintImageDownloaderApp\PrintImageDownloader\obj\Debug\net6.0\PrintImageDownloader.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\PrintImageDownloaderApp\PrintImageDownloader\obj\Debug\net6.0\PrintImageDownloader.AssemblyInfoInputs.cache
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\PrintImageDownloaderApp\PrintImageDownloader\obj\Debug\net6.0\PrintImageDownloader.AssemblyInfo.cs
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\PrintImageDownloaderApp\PrintImageDownloader\obj\Debug\net6.0\PrintImageDownloader.csproj.CoreCompileInputs.cache
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\PrintImageDownloaderApp\PrintImageDownloader\obj\Debug\net6.0\PrintImageDownloader.csproj.CopyComplete
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\PrintImageDownloaderApp\PrintImageDownloader\obj\Debug\net6.0\PrintImageDownloader.dll
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\PrintImageDownloaderApp\PrintImageDownloader\obj\Debug\net6.0\refint\PrintImageDownloader.dll
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\PrintImageDownloaderApp\PrintImageDownloader\obj\Debug\net6.0\PrintImageDownloader.pdb
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\PrintImageDownloaderApp\PrintImageDownloader\obj\Debug\net6.0\PrintImageDownloader.genruntimeconfig.cache
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\PrintImageDownloaderApp\PrintImageDownloader\obj\Debug\net6.0\ref\PrintImageDownloader.dll

@@ -1,0 +1,12 @@
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\SupportedWasmApp\SupportedWasm\Shared\bin\Debug\net6.0\SupportedWasm.Shared.deps.json
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\SupportedWasmApp\SupportedWasm\Shared\bin\Debug\net6.0\SupportedWasm.Shared.dll
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\SupportedWasmApp\SupportedWasm\Shared\bin\Debug\net6.0\SupportedWasm.Shared.pdb
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\SupportedWasmApp\SupportedWasm\Shared\obj\Debug\net6.0\SupportedWasm.Shared.csproj.AssemblyReference.cache
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\SupportedWasmApp\SupportedWasm\Shared\obj\Debug\net6.0\SupportedWasm.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\SupportedWasmApp\SupportedWasm\Shared\obj\Debug\net6.0\SupportedWasm.Shared.AssemblyInfoInputs.cache
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\SupportedWasmApp\SupportedWasm\Shared\obj\Debug\net6.0\SupportedWasm.Shared.AssemblyInfo.cs
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\SupportedWasmApp\SupportedWasm\Shared\obj\Debug\net6.0\SupportedWasm.Shared.csproj.CoreCompileInputs.cache
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\SupportedWasmApp\SupportedWasm\Shared\obj\Debug\net6.0\SupportedWasm.Shared.dll
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\SupportedWasmApp\SupportedWasm\Shared\obj\Debug\net6.0\refint\SupportedWasm.Shared.dll
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\SupportedWasmApp\SupportedWasm\Shared\obj\Debug\net6.0\SupportedWasm.Shared.pdb
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\SupportedWasmApp\SupportedWasm\Shared\obj\Debug\net6.0\ref\SupportedWasm.Shared.dll

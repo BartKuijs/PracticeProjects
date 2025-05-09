@@ -1,0 +1,15 @@
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\MiniProjectDebuggingApp\MiniProjectDebugging\obj\Debug\net6.0\MiniProjectDebugging.csproj.AssemblyReference.cache
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\MiniProjectDebuggingApp\MiniProjectDebugging\obj\Debug\net6.0\MiniProjectDebugging.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\MiniProjectDebuggingApp\MiniProjectDebugging\obj\Debug\net6.0\MiniProjectDebugging.AssemblyInfoInputs.cache
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\MiniProjectDebuggingApp\MiniProjectDebugging\obj\Debug\net6.0\MiniProjectDebugging.AssemblyInfo.cs
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\MiniProjectDebuggingApp\MiniProjectDebugging\obj\Debug\net6.0\MiniProjectDebugging.csproj.CoreCompileInputs.cache
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\MiniProjectDebuggingApp\MiniProjectDebugging\bin\Debug\net6.0\MiniProjectDebugging.exe
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\MiniProjectDebuggingApp\MiniProjectDebugging\bin\Debug\net6.0\MiniProjectDebugging.deps.json
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\MiniProjectDebuggingApp\MiniProjectDebugging\bin\Debug\net6.0\MiniProjectDebugging.runtimeconfig.json
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\MiniProjectDebuggingApp\MiniProjectDebugging\bin\Debug\net6.0\MiniProjectDebugging.dll
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\MiniProjectDebuggingApp\MiniProjectDebugging\bin\Debug\net6.0\MiniProjectDebugging.pdb
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\MiniProjectDebuggingApp\MiniProjectDebugging\obj\Debug\net6.0\MiniProjectDebugging.dll
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\MiniProjectDebuggingApp\MiniProjectDebugging\obj\Debug\net6.0\refint\MiniProjectDebugging.dll
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\MiniProjectDebuggingApp\MiniProjectDebugging\obj\Debug\net6.0\MiniProjectDebugging.pdb
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\MiniProjectDebuggingApp\MiniProjectDebugging\obj\Debug\net6.0\MiniProjectDebugging.genruntimeconfig.cache
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\MiniProjectDebuggingApp\MiniProjectDebugging\obj\Debug\net6.0\ref\MiniProjectDebugging.dll

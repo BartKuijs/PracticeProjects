@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MVCMessageWall", "MVCMessageWall\MVCMessageWall.csproj", "{FD348E05-A528-4546-966A-794FAE5DA540}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FD348E05-A528-4546-966A-794FAE5DA540}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD348E05-A528-4546-966A-794FAE5DA540}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD348E05-A528-4546-966A-794FAE5DA540}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD348E05-A528-4546-966A-794FAE5DA540}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EABAA7EA-8213-4F57-A8F7-E61DE6AA3533}
+	EndGlobalSection
+EndGlobal

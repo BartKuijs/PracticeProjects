@@ -1,0 +1,15 @@
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\DecimalVariablesApp\DecimalVariablesPractice\bin\Debug\net6.0\DecimalVariablesPractice.exe
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\DecimalVariablesApp\DecimalVariablesPractice\bin\Debug\net6.0\DecimalVariablesPractice.deps.json
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\DecimalVariablesApp\DecimalVariablesPractice\bin\Debug\net6.0\DecimalVariablesPractice.runtimeconfig.json
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\DecimalVariablesApp\DecimalVariablesPractice\bin\Debug\net6.0\DecimalVariablesPractice.dll
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\DecimalVariablesApp\DecimalVariablesPractice\bin\Debug\net6.0\DecimalVariablesPractice.pdb
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\DecimalVariablesApp\DecimalVariablesPractice\obj\Debug\net6.0\DecimalVariablesPractice.csproj.AssemblyReference.cache
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\DecimalVariablesApp\DecimalVariablesPractice\obj\Debug\net6.0\DecimalVariablesPractice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\DecimalVariablesApp\DecimalVariablesPractice\obj\Debug\net6.0\DecimalVariablesPractice.AssemblyInfoInputs.cache
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\DecimalVariablesApp\DecimalVariablesPractice\obj\Debug\net6.0\DecimalVariablesPractice.AssemblyInfo.cs
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\DecimalVariablesApp\DecimalVariablesPractice\obj\Debug\net6.0\DecimalVariablesPractice.csproj.CoreCompileInputs.cache
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\DecimalVariablesApp\DecimalVariablesPractice\obj\Debug\net6.0\DecimalVariablesPractice.dll
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\DecimalVariablesApp\DecimalVariablesPractice\obj\Debug\net6.0\refint\DecimalVariablesPractice.dll
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\DecimalVariablesApp\DecimalVariablesPractice\obj\Debug\net6.0\DecimalVariablesPractice.pdb
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\DecimalVariablesApp\DecimalVariablesPractice\obj\Debug\net6.0\DecimalVariablesPractice.genruntimeconfig.cache
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\DecimalVariablesApp\DecimalVariablesPractice\obj\Debug\net6.0\ref\DecimalVariablesPractice.dll

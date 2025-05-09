@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ForLoops", "ForLoops\ForLoops.csproj", "{84648D3B-312E-4740-AEA6-9AEDBE8AF56A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ForLoopsPractice", "ForLoopsPractice\ForLoopsPractice.csproj", "{725B7842-E1A5-49E4-B59C-99BFE3E61136}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{84648D3B-312E-4740-AEA6-9AEDBE8AF56A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{84648D3B-312E-4740-AEA6-9AEDBE8AF56A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{84648D3B-312E-4740-AEA6-9AEDBE8AF56A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{84648D3B-312E-4740-AEA6-9AEDBE8AF56A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{725B7842-E1A5-49E4-B59C-99BFE3E61136}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{725B7842-E1A5-49E4-B59C-99BFE3E61136}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{725B7842-E1A5-49E4-B59C-99BFE3E61136}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{725B7842-E1A5-49E4-B59C-99BFE3E61136}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4A506ABF-80BC-411F-8569-A1B7B69ADA4F}
+	EndGlobalSection
+EndGlobal

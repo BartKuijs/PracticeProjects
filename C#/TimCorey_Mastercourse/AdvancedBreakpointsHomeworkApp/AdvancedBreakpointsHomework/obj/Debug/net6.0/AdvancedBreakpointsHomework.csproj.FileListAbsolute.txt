@@ -1,0 +1,15 @@
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\AdvancedBreakpointsHomeworkApp\AdvancedBreakpointsHomework\bin\Debug\net6.0\AdvancedBreakpointsHomework.exe
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\AdvancedBreakpointsHomeworkApp\AdvancedBreakpointsHomework\bin\Debug\net6.0\AdvancedBreakpointsHomework.deps.json
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\AdvancedBreakpointsHomeworkApp\AdvancedBreakpointsHomework\bin\Debug\net6.0\AdvancedBreakpointsHomework.runtimeconfig.json
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\AdvancedBreakpointsHomeworkApp\AdvancedBreakpointsHomework\bin\Debug\net6.0\AdvancedBreakpointsHomework.dll
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\AdvancedBreakpointsHomeworkApp\AdvancedBreakpointsHomework\bin\Debug\net6.0\AdvancedBreakpointsHomework.pdb
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\AdvancedBreakpointsHomeworkApp\AdvancedBreakpointsHomework\obj\Debug\net6.0\AdvancedBreakpointsHomework.csproj.AssemblyReference.cache
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\AdvancedBreakpointsHomeworkApp\AdvancedBreakpointsHomework\obj\Debug\net6.0\AdvancedBreakpointsHomework.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\AdvancedBreakpointsHomeworkApp\AdvancedBreakpointsHomework\obj\Debug\net6.0\AdvancedBreakpointsHomework.AssemblyInfoInputs.cache
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\AdvancedBreakpointsHomeworkApp\AdvancedBreakpointsHomework\obj\Debug\net6.0\AdvancedBreakpointsHomework.AssemblyInfo.cs
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\AdvancedBreakpointsHomeworkApp\AdvancedBreakpointsHomework\obj\Debug\net6.0\AdvancedBreakpointsHomework.csproj.CoreCompileInputs.cache
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\AdvancedBreakpointsHomeworkApp\AdvancedBreakpointsHomework\obj\Debug\net6.0\AdvancedBreakpointsHomework.dll
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\AdvancedBreakpointsHomeworkApp\AdvancedBreakpointsHomework\obj\Debug\net6.0\refint\AdvancedBreakpointsHomework.dll
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\AdvancedBreakpointsHomeworkApp\AdvancedBreakpointsHomework\obj\Debug\net6.0\AdvancedBreakpointsHomework.pdb
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\AdvancedBreakpointsHomeworkApp\AdvancedBreakpointsHomework\obj\Debug\net6.0\AdvancedBreakpointsHomework.genruntimeconfig.cache
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\AdvancedBreakpointsHomeworkApp\AdvancedBreakpointsHomework\obj\Debug\net6.0\ref\AdvancedBreakpointsHomework.dll

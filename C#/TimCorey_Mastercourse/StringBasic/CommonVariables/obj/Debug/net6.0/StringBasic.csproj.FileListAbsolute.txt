@@ -1,0 +1,15 @@
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\StringBasic\CommonVariables\bin\Debug\net6.0\StringBasic.exe
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\StringBasic\CommonVariables\bin\Debug\net6.0\StringBasic.deps.json
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\StringBasic\CommonVariables\bin\Debug\net6.0\StringBasic.runtimeconfig.json
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\StringBasic\CommonVariables\bin\Debug\net6.0\StringBasic.dll
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\StringBasic\CommonVariables\bin\Debug\net6.0\StringBasic.pdb
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\StringBasic\CommonVariables\obj\Debug\net6.0\StringBasic.csproj.AssemblyReference.cache
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\StringBasic\CommonVariables\obj\Debug\net6.0\StringBasic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\StringBasic\CommonVariables\obj\Debug\net6.0\StringBasic.AssemblyInfoInputs.cache
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\StringBasic\CommonVariables\obj\Debug\net6.0\StringBasic.AssemblyInfo.cs
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\StringBasic\CommonVariables\obj\Debug\net6.0\StringBasic.csproj.CoreCompileInputs.cache
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\StringBasic\CommonVariables\obj\Debug\net6.0\StringBasic.dll
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\StringBasic\CommonVariables\obj\Debug\net6.0\refint\StringBasic.dll
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\StringBasic\CommonVariables\obj\Debug\net6.0\StringBasic.pdb
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\StringBasic\CommonVariables\obj\Debug\net6.0\StringBasic.genruntimeconfig.cache
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\StringBasic\CommonVariables\obj\Debug\net6.0\ref\StringBasic.dll

@@ -1,0 +1,15 @@
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\ExtensionMethodsProjectApp\ExtensionMethodsProject\bin\Debug\net6.0\ExtensionMethodsProject.exe
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\ExtensionMethodsProjectApp\ExtensionMethodsProject\bin\Debug\net6.0\ExtensionMethodsProject.deps.json
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\ExtensionMethodsProjectApp\ExtensionMethodsProject\bin\Debug\net6.0\ExtensionMethodsProject.runtimeconfig.json
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\ExtensionMethodsProjectApp\ExtensionMethodsProject\bin\Debug\net6.0\ExtensionMethodsProject.dll
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\ExtensionMethodsProjectApp\ExtensionMethodsProject\bin\Debug\net6.0\ExtensionMethodsProject.pdb
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\ExtensionMethodsProjectApp\ExtensionMethodsProject\obj\Debug\net6.0\ExtensionMethodsProject.csproj.AssemblyReference.cache
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\ExtensionMethodsProjectApp\ExtensionMethodsProject\obj\Debug\net6.0\ExtensionMethodsProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\ExtensionMethodsProjectApp\ExtensionMethodsProject\obj\Debug\net6.0\ExtensionMethodsProject.AssemblyInfoInputs.cache
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\ExtensionMethodsProjectApp\ExtensionMethodsProject\obj\Debug\net6.0\ExtensionMethodsProject.AssemblyInfo.cs
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\ExtensionMethodsProjectApp\ExtensionMethodsProject\obj\Debug\net6.0\ExtensionMethodsProject.csproj.CoreCompileInputs.cache
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\ExtensionMethodsProjectApp\ExtensionMethodsProject\obj\Debug\net6.0\ExtensionMethodsProject.dll
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\ExtensionMethodsProjectApp\ExtensionMethodsProject\obj\Debug\net6.0\refint\ExtensionMethodsProject.dll
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\ExtensionMethodsProjectApp\ExtensionMethodsProject\obj\Debug\net6.0\ExtensionMethodsProject.pdb
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\ExtensionMethodsProjectApp\ExtensionMethodsProject\obj\Debug\net6.0\ExtensionMethodsProject.genruntimeconfig.cache
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\ExtensionMethodsProjectApp\ExtensionMethodsProject\obj\Debug\net6.0\ref\ExtensionMethodsProject.dll

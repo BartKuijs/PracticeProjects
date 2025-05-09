@@ -1,0 +1,47 @@
+﻿<Window x:Class="WPFProjectHomeWork.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WPFProjectHomeWork"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*"></ColumnDefinition>
+            <ColumnDefinition Width="*"></ColumnDefinition>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*"></RowDefinition>
+            <RowDefinition Height="*"></RowDefinition>
+        </Grid.RowDefinitions>
+        <StackPanel Grid.Row="0" Grid.Column="0" Margin="2">
+            <Label x:Name="FirstNameLabel">First Name:</Label>
+            <TextBox x:Name="FirstNameTextBox" MaxWidth="200" MinWidth="150" HorizontalAlignment="Left"></TextBox>
+        </StackPanel>
+        <StackPanel Grid.Row="1">
+            <Label x:Name="LastNameLabel" >Last Name:</Label>
+            <TextBox x:Name="LastNameTextBox" MaxWidth="200" MinWidth="150" HorizontalAlignment="Left"></TextBox>
+        </StackPanel>
+        <StackPanel Grid.Column="1" Grid.RowSpan="2">
+            <Button x:Name="SayHiButton" Click="SayHiButton_Click">Say Hi</Button>
+            <ListBox x:Name="MessageListBox">
+                <ListBox.ItemTemplate>
+                    <DataTemplate>
+                        <StackPanel Orientation="Vertical">
+                            <TextBlock Text="{Binding Path=Street}" />
+                            <StackPanel Orientation="Horizontal">
+                                <TextBlock Text="{Binding Path=City}" FontSize="12"/>
+                                <TextBlock Text=", "/>
+                                <TextBlock Text="{Binding Path=HouseNumber}" FontSize="12"/>
+                                <TextBlock Text="  "/>
+                                <TextBlock Text="{Binding Path=PostalCode}" FontSize="12"/>
+                            </StackPanel>
+                        </StackPanel>
+                    </DataTemplate>
+                </ListBox.ItemTemplate>
+            </ListBox>
+        </StackPanel>
+        
+    </Grid>
+</Window>

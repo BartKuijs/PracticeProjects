@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DoLoop", "DoLoop\DoLoop.csproj", "{FD5DD86C-E5F8-4744-80C1-01EE214C62AA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DoLoopPractice", "DoLoopPractice\DoLoopPractice.csproj", "{6671A13C-C18F-430F-A078-DBD49511835F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FD5DD86C-E5F8-4744-80C1-01EE214C62AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD5DD86C-E5F8-4744-80C1-01EE214C62AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD5DD86C-E5F8-4744-80C1-01EE214C62AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD5DD86C-E5F8-4744-80C1-01EE214C62AA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6671A13C-C18F-430F-A078-DBD49511835F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6671A13C-C18F-430F-A078-DBD49511835F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6671A13C-C18F-430F-A078-DBD49511835F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6671A13C-C18F-430F-A078-DBD49511835F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C528A3F5-4B62-47E9-BA3E-6D3CDA0095A8}
+	EndGlobalSection
+EndGlobal

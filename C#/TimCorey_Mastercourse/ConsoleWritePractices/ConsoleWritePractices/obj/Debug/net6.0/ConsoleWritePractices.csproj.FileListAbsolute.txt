@@ -1,0 +1,15 @@
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\ConsoleWritePractices\ConsoleWritePractices\bin\Debug\net6.0\ConsoleWritePractices.exe
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\ConsoleWritePractices\ConsoleWritePractices\bin\Debug\net6.0\ConsoleWritePractices.deps.json
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\ConsoleWritePractices\ConsoleWritePractices\bin\Debug\net6.0\ConsoleWritePractices.runtimeconfig.json
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\ConsoleWritePractices\ConsoleWritePractices\bin\Debug\net6.0\ConsoleWritePractices.dll
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\ConsoleWritePractices\ConsoleWritePractices\bin\Debug\net6.0\ConsoleWritePractices.pdb
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\ConsoleWritePractices\ConsoleWritePractices\obj\Debug\net6.0\ConsoleWritePractices.csproj.AssemblyReference.cache
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\ConsoleWritePractices\ConsoleWritePractices\obj\Debug\net6.0\ConsoleWritePractices.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\ConsoleWritePractices\ConsoleWritePractices\obj\Debug\net6.0\ConsoleWritePractices.AssemblyInfoInputs.cache
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\ConsoleWritePractices\ConsoleWritePractices\obj\Debug\net6.0\ConsoleWritePractices.AssemblyInfo.cs
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\ConsoleWritePractices\ConsoleWritePractices\obj\Debug\net6.0\ConsoleWritePractices.csproj.CoreCompileInputs.cache
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\ConsoleWritePractices\ConsoleWritePractices\obj\Debug\net6.0\ConsoleWritePractices.dll
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\ConsoleWritePractices\ConsoleWritePractices\obj\Debug\net6.0\refint\ConsoleWritePractices.dll
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\ConsoleWritePractices\ConsoleWritePractices\obj\Debug\net6.0\ConsoleWritePractices.pdb
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\ConsoleWritePractices\ConsoleWritePractices\obj\Debug\net6.0\ConsoleWritePractices.genruntimeconfig.cache
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\ConsoleWritePractices\ConsoleWritePractices\obj\Debug\net6.0\ref\ConsoleWritePractices.dll

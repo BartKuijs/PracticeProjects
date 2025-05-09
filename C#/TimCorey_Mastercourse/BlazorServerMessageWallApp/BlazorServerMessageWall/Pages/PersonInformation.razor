@@ -1,0 +1,40 @@
+﻿@page "/PersonInformation"
+
+<PageTitle>Person Information</PageTitle>
+
+<h3>Person Information</h3>
+
+<EditForm Model="person" OnValidSubmit="PersonalMessage">
+    <DataAnnotationsValidator/>
+    <ValidationSummary/>
+
+        <label for="firstname" class="form-label">@nameof(person.FirstName)</label>
+        <InputText id="firstname" @bind-Value="person.FirstName" class="form-control" />
+    <label for="lastname" class="form-label">@nameof(person.LastName)</label>
+    <InputText id="lastname" @bind-Value="person.LastName" class="form-control" />
+
+    <button class="btn btn-primary" type="submit">Submit</button>
+
+</EditForm>
+
+
+@foreach (var message in messages)
+{
+    <p>@message</p>
+}
+    
+
+
+
+@code {
+    private PersonModel person = new();
+
+    private List<string> messages = new();
+
+
+    private void PersonalMessage()
+    {
+        messages.Add(person.Message);
+        person = new();
+    }
+}

@@ -1,0 +1,15 @@
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\DictionariesApp\DictionariesPractice\bin\Debug\net6.0\DictionariesPractice.exe
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\DictionariesApp\DictionariesPractice\bin\Debug\net6.0\DictionariesPractice.deps.json
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\DictionariesApp\DictionariesPractice\bin\Debug\net6.0\DictionariesPractice.runtimeconfig.json
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\DictionariesApp\DictionariesPractice\bin\Debug\net6.0\DictionariesPractice.dll
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\DictionariesApp\DictionariesPractice\bin\Debug\net6.0\DictionariesPractice.pdb
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\DictionariesApp\DictionariesPractice\obj\Debug\net6.0\DictionariesPractice.csproj.AssemblyReference.cache
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\DictionariesApp\DictionariesPractice\obj\Debug\net6.0\DictionariesPractice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\DictionariesApp\DictionariesPractice\obj\Debug\net6.0\DictionariesPractice.AssemblyInfoInputs.cache
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\DictionariesApp\DictionariesPractice\obj\Debug\net6.0\DictionariesPractice.AssemblyInfo.cs
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\DictionariesApp\DictionariesPractice\obj\Debug\net6.0\DictionariesPractice.csproj.CoreCompileInputs.cache
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\DictionariesApp\DictionariesPractice\obj\Debug\net6.0\DictionariesPractice.dll
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\DictionariesApp\DictionariesPractice\obj\Debug\net6.0\refint\DictionariesPractice.dll
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\DictionariesApp\DictionariesPractice\obj\Debug\net6.0\DictionariesPractice.pdb
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\DictionariesApp\DictionariesPractice\obj\Debug\net6.0\DictionariesPractice.genruntimeconfig.cache
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\DictionariesApp\DictionariesPractice\obj\Debug\net6.0\ref\DictionariesPractice.dll

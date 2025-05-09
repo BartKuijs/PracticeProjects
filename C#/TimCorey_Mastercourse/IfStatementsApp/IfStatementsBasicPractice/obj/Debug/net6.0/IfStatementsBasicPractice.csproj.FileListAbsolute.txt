@@ -1,0 +1,15 @@
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\IfStatementsApp\IfStatementsBasicPractice\bin\Debug\net6.0\IfStatementsBasicPractice.exe
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\IfStatementsApp\IfStatementsBasicPractice\bin\Debug\net6.0\IfStatementsBasicPractice.deps.json
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\IfStatementsApp\IfStatementsBasicPractice\bin\Debug\net6.0\IfStatementsBasicPractice.runtimeconfig.json
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\IfStatementsApp\IfStatementsBasicPractice\bin\Debug\net6.0\IfStatementsBasicPractice.dll
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\IfStatementsApp\IfStatementsBasicPractice\bin\Debug\net6.0\IfStatementsBasicPractice.pdb
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\IfStatementsApp\IfStatementsBasicPractice\obj\Debug\net6.0\IfStatementsBasicPractice.csproj.AssemblyReference.cache
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\IfStatementsApp\IfStatementsBasicPractice\obj\Debug\net6.0\IfStatementsBasicPractice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\IfStatementsApp\IfStatementsBasicPractice\obj\Debug\net6.0\IfStatementsBasicPractice.AssemblyInfoInputs.cache
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\IfStatementsApp\IfStatementsBasicPractice\obj\Debug\net6.0\IfStatementsBasicPractice.AssemblyInfo.cs
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\IfStatementsApp\IfStatementsBasicPractice\obj\Debug\net6.0\IfStatementsBasicPractice.csproj.CoreCompileInputs.cache
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\IfStatementsApp\IfStatementsBasicPractice\obj\Debug\net6.0\IfStatementsBasicPractice.dll
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\IfStatementsApp\IfStatementsBasicPractice\obj\Debug\net6.0\refint\IfStatementsBasicPractice.dll
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\IfStatementsApp\IfStatementsBasicPractice\obj\Debug\net6.0\IfStatementsBasicPractice.pdb
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\IfStatementsApp\IfStatementsBasicPractice\obj\Debug\net6.0\IfStatementsBasicPractice.genruntimeconfig.cache
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\IfStatementsApp\IfStatementsBasicPractice\obj\Debug\net6.0\ref\IfStatementsBasicPractice.dll

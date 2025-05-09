@@ -1,0 +1,15 @@
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\StringBasic\StringEscapeChar\bin\Debug\net6.0\StringEscapeChar.exe
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\StringBasic\StringEscapeChar\bin\Debug\net6.0\StringEscapeChar.deps.json
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\StringBasic\StringEscapeChar\bin\Debug\net6.0\StringEscapeChar.runtimeconfig.json
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\StringBasic\StringEscapeChar\bin\Debug\net6.0\StringEscapeChar.dll
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\StringBasic\StringEscapeChar\bin\Debug\net6.0\StringEscapeChar.pdb
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\StringBasic\StringEscapeChar\obj\Debug\net6.0\StringEscapeChar.csproj.AssemblyReference.cache
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\StringBasic\StringEscapeChar\obj\Debug\net6.0\StringEscapeChar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\StringBasic\StringEscapeChar\obj\Debug\net6.0\StringEscapeChar.AssemblyInfoInputs.cache
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\StringBasic\StringEscapeChar\obj\Debug\net6.0\StringEscapeChar.AssemblyInfo.cs
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\StringBasic\StringEscapeChar\obj\Debug\net6.0\StringEscapeChar.csproj.CoreCompileInputs.cache
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\StringBasic\StringEscapeChar\obj\Debug\net6.0\StringEscapeChar.dll
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\StringBasic\StringEscapeChar\obj\Debug\net6.0\refint\StringEscapeChar.dll
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\StringBasic\StringEscapeChar\obj\Debug\net6.0\StringEscapeChar.pdb
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\StringBasic\StringEscapeChar\obj\Debug\net6.0\StringEscapeChar.genruntimeconfig.cache
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\StringBasic\StringEscapeChar\obj\Debug\net6.0\ref\StringEscapeChar.dll

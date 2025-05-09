@@ -1,0 +1,15 @@
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\GenericEventsMiniProjectApp\GenericEventsMiniProject\bin\Debug\net6.0\GenericEventsMiniProject.exe
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\GenericEventsMiniProjectApp\GenericEventsMiniProject\bin\Debug\net6.0\GenericEventsMiniProject.deps.json
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\GenericEventsMiniProjectApp\GenericEventsMiniProject\bin\Debug\net6.0\GenericEventsMiniProject.runtimeconfig.json
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\GenericEventsMiniProjectApp\GenericEventsMiniProject\bin\Debug\net6.0\GenericEventsMiniProject.dll
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\GenericEventsMiniProjectApp\GenericEventsMiniProject\bin\Debug\net6.0\GenericEventsMiniProject.pdb
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\GenericEventsMiniProjectApp\GenericEventsMiniProject\obj\Debug\net6.0\GenericEventsMiniProject.csproj.AssemblyReference.cache
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\GenericEventsMiniProjectApp\GenericEventsMiniProject\obj\Debug\net6.0\GenericEventsMiniProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\GenericEventsMiniProjectApp\GenericEventsMiniProject\obj\Debug\net6.0\GenericEventsMiniProject.AssemblyInfoInputs.cache
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\GenericEventsMiniProjectApp\GenericEventsMiniProject\obj\Debug\net6.0\GenericEventsMiniProject.AssemblyInfo.cs
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\GenericEventsMiniProjectApp\GenericEventsMiniProject\obj\Debug\net6.0\GenericEventsMiniProject.csproj.CoreCompileInputs.cache
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\GenericEventsMiniProjectApp\GenericEventsMiniProject\obj\Debug\net6.0\GenericEventsMiniProject.dll
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\GenericEventsMiniProjectApp\GenericEventsMiniProject\obj\Debug\net6.0\refint\GenericEventsMiniProject.dll
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\GenericEventsMiniProjectApp\GenericEventsMiniProject\obj\Debug\net6.0\GenericEventsMiniProject.pdb
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\GenericEventsMiniProjectApp\GenericEventsMiniProject\obj\Debug\net6.0\GenericEventsMiniProject.genruntimeconfig.cache
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\GenericEventsMiniProjectApp\GenericEventsMiniProject\obj\Debug\net6.0\ref\GenericEventsMiniProject.dll

@@ -1,0 +1,15 @@
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\NullStateApp\NullState\bin\Debug\net6.0\NullState.exe
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\NullStateApp\NullState\bin\Debug\net6.0\NullState.deps.json
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\NullStateApp\NullState\bin\Debug\net6.0\NullState.runtimeconfig.json
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\NullStateApp\NullState\bin\Debug\net6.0\NullState.dll
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\NullStateApp\NullState\bin\Debug\net6.0\NullState.pdb
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\NullStateApp\NullState\obj\Debug\net6.0\NullState.csproj.AssemblyReference.cache
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\NullStateApp\NullState\obj\Debug\net6.0\NullState.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\NullStateApp\NullState\obj\Debug\net6.0\NullState.AssemblyInfoInputs.cache
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\NullStateApp\NullState\obj\Debug\net6.0\NullState.AssemblyInfo.cs
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\NullStateApp\NullState\obj\Debug\net6.0\NullState.csproj.CoreCompileInputs.cache
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\NullStateApp\NullState\obj\Debug\net6.0\NullState.dll
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\NullStateApp\NullState\obj\Debug\net6.0\refint\NullState.dll
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\NullStateApp\NullState\obj\Debug\net6.0\NullState.pdb
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\NullStateApp\NullState\obj\Debug\net6.0\NullState.genruntimeconfig.cache
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\NullStateApp\NullState\obj\Debug\net6.0\ref\NullState.dll

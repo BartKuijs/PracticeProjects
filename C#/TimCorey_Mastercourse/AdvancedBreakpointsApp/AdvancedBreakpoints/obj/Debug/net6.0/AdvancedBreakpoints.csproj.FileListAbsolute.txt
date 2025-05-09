@@ -1,0 +1,15 @@
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\AdvancedBreakpointsApp\AdvancedBreakpoints\bin\Debug\net6.0\AdvancedBreakpoints.exe
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\AdvancedBreakpointsApp\AdvancedBreakpoints\bin\Debug\net6.0\AdvancedBreakpoints.deps.json
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\AdvancedBreakpointsApp\AdvancedBreakpoints\bin\Debug\net6.0\AdvancedBreakpoints.runtimeconfig.json
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\AdvancedBreakpointsApp\AdvancedBreakpoints\bin\Debug\net6.0\AdvancedBreakpoints.dll
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\AdvancedBreakpointsApp\AdvancedBreakpoints\bin\Debug\net6.0\AdvancedBreakpoints.pdb
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\AdvancedBreakpointsApp\AdvancedBreakpoints\obj\Debug\net6.0\AdvancedBreakpoints.csproj.AssemblyReference.cache
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\AdvancedBreakpointsApp\AdvancedBreakpoints\obj\Debug\net6.0\AdvancedBreakpoints.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\AdvancedBreakpointsApp\AdvancedBreakpoints\obj\Debug\net6.0\AdvancedBreakpoints.AssemblyInfoInputs.cache
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\AdvancedBreakpointsApp\AdvancedBreakpoints\obj\Debug\net6.0\AdvancedBreakpoints.AssemblyInfo.cs
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\AdvancedBreakpointsApp\AdvancedBreakpoints\obj\Debug\net6.0\AdvancedBreakpoints.csproj.CoreCompileInputs.cache
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\AdvancedBreakpointsApp\AdvancedBreakpoints\obj\Debug\net6.0\AdvancedBreakpoints.dll
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\AdvancedBreakpointsApp\AdvancedBreakpoints\obj\Debug\net6.0\refint\AdvancedBreakpoints.dll
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\AdvancedBreakpointsApp\AdvancedBreakpoints\obj\Debug\net6.0\AdvancedBreakpoints.pdb
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\AdvancedBreakpointsApp\AdvancedBreakpoints\obj\Debug\net6.0\AdvancedBreakpoints.genruntimeconfig.cache
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\AdvancedBreakpointsApp\AdvancedBreakpoints\obj\Debug\net6.0\ref\AdvancedBreakpoints.dll

@@ -1,0 +1,17 @@
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\NoSQLDBSolution\DataAccesLibrary\bin\Debug\net6.0\DataAccesLibrary.deps.json
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\NoSQLDBSolution\DataAccesLibrary\bin\Debug\net6.0\DataAccesLibrary.dll
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\NoSQLDBSolution\DataAccesLibrary\bin\Debug\net6.0\DataAccesLibrary.pdb
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\NoSQLDBSolution\DataAccesLibrary\obj\Debug\net6.0\DataAccesLibrary.csproj.AssemblyReference.cache
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\NoSQLDBSolution\DataAccesLibrary\obj\Debug\net6.0\DataAccesLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\NoSQLDBSolution\DataAccesLibrary\obj\Debug\net6.0\DataAccesLibrary.AssemblyInfoInputs.cache
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\NoSQLDBSolution\DataAccesLibrary\obj\Debug\net6.0\DataAccesLibrary.AssemblyInfo.cs
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\NoSQLDBSolution\DataAccesLibrary\obj\Debug\net6.0\DataAccesLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\NoSQLDBSolution\DataAccesLibrary\obj\Debug\net6.0\DataAccesLibrary.dll
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\NoSQLDBSolution\DataAccesLibrary\obj\Debug\net6.0\refint\DataAccesLibrary.dll
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\NoSQLDBSolution\DataAccesLibrary\obj\Debug\net6.0\DataAccesLibrary.pdb
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\NoSQLDBSolution\DataAccesLibrary\obj\Debug\net6.0\ref\DataAccesLibrary.dll
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\NoSQLDBSolution\DataAccesLibrary\bin\Debug\net6.0\Microsoft.Azure.Cosmos.ServiceInterop.dll
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\NoSQLDBSolution\DataAccesLibrary\bin\Debug\net6.0\Cosmos.CRTCompat.dll
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\NoSQLDBSolution\DataAccesLibrary\bin\Debug\net6.0\msvcp140.dll
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\NoSQLDBSolution\DataAccesLibrary\bin\Debug\net6.0\vcruntime140.dll
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\NoSQLDBSolution\DataAccesLibrary\bin\Debug\net6.0\vcruntime140_1.dll

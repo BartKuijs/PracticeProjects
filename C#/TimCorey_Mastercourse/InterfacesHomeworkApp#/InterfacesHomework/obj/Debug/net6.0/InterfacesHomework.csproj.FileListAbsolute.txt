@@ -1,0 +1,15 @@
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\InterfacesHomeworkApp#\InterfacesHomework\bin\Debug\net6.0\InterfacesHomework.exe
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\InterfacesHomeworkApp#\InterfacesHomework\bin\Debug\net6.0\InterfacesHomework.deps.json
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\InterfacesHomeworkApp#\InterfacesHomework\bin\Debug\net6.0\InterfacesHomework.runtimeconfig.json
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\InterfacesHomeworkApp#\InterfacesHomework\bin\Debug\net6.0\InterfacesHomework.dll
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\InterfacesHomeworkApp#\InterfacesHomework\bin\Debug\net6.0\InterfacesHomework.pdb
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\InterfacesHomeworkApp#\InterfacesHomework\obj\Debug\net6.0\InterfacesHomework.csproj.AssemblyReference.cache
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\InterfacesHomeworkApp#\InterfacesHomework\obj\Debug\net6.0\InterfacesHomework.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\InterfacesHomeworkApp#\InterfacesHomework\obj\Debug\net6.0\InterfacesHomework.AssemblyInfoInputs.cache
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\InterfacesHomeworkApp#\InterfacesHomework\obj\Debug\net6.0\InterfacesHomework.AssemblyInfo.cs
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\InterfacesHomeworkApp#\InterfacesHomework\obj\Debug\net6.0\InterfacesHomework.csproj.CoreCompileInputs.cache
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\InterfacesHomeworkApp#\InterfacesHomework\obj\Debug\net6.0\InterfacesHomework.dll
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\InterfacesHomeworkApp#\InterfacesHomework\obj\Debug\net6.0\refint\InterfacesHomework.dll
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\InterfacesHomeworkApp#\InterfacesHomework\obj\Debug\net6.0\InterfacesHomework.pdb
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\InterfacesHomeworkApp#\InterfacesHomework\obj\Debug\net6.0\InterfacesHomework.genruntimeconfig.cache
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\InterfacesHomeworkApp#\InterfacesHomework\obj\Debug\net6.0\ref\InterfacesHomework.dll

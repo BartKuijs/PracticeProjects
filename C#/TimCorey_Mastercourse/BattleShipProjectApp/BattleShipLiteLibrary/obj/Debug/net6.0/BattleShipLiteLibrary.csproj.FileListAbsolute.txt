@@ -1,0 +1,12 @@
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\BattleShipProjectApp\BattleShipLiteLibrary\bin\Debug\net6.0\BattleShipLiteLibrary.deps.json
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\BattleShipProjectApp\BattleShipLiteLibrary\bin\Debug\net6.0\BattleShipLiteLibrary.dll
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\BattleShipProjectApp\BattleShipLiteLibrary\bin\Debug\net6.0\BattleShipLiteLibrary.pdb
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\BattleShipProjectApp\BattleShipLiteLibrary\obj\Debug\net6.0\BattleShipLiteLibrary.csproj.AssemblyReference.cache
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\BattleShipProjectApp\BattleShipLiteLibrary\obj\Debug\net6.0\BattleShipLiteLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\BattleShipProjectApp\BattleShipLiteLibrary\obj\Debug\net6.0\BattleShipLiteLibrary.AssemblyInfoInputs.cache
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\BattleShipProjectApp\BattleShipLiteLibrary\obj\Debug\net6.0\BattleShipLiteLibrary.AssemblyInfo.cs
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\BattleShipProjectApp\BattleShipLiteLibrary\obj\Debug\net6.0\BattleShipLiteLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\BattleShipProjectApp\BattleShipLiteLibrary\obj\Debug\net6.0\BattleShipLiteLibrary.dll
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\BattleShipProjectApp\BattleShipLiteLibrary\obj\Debug\net6.0\refint\BattleShipLiteLibrary.dll
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\BattleShipProjectApp\BattleShipLiteLibrary\obj\Debug\net6.0\BattleShipLiteLibrary.pdb
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\BattleShipProjectApp\BattleShipLiteLibrary\obj\Debug\net6.0\ref\BattleShipLiteLibrary.dll

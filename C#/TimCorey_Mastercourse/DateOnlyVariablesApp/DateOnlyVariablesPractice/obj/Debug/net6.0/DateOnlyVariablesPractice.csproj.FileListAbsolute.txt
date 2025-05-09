@@ -1,0 +1,15 @@
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\DateOnlyVariablesApp\DateOnlyVariablesPractice\bin\Debug\net6.0\DateOnlyVariablesPractice.exe
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\DateOnlyVariablesApp\DateOnlyVariablesPractice\bin\Debug\net6.0\DateOnlyVariablesPractice.deps.json
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\DateOnlyVariablesApp\DateOnlyVariablesPractice\bin\Debug\net6.0\DateOnlyVariablesPractice.runtimeconfig.json
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\DateOnlyVariablesApp\DateOnlyVariablesPractice\bin\Debug\net6.0\DateOnlyVariablesPractice.dll
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\DateOnlyVariablesApp\DateOnlyVariablesPractice\bin\Debug\net6.0\DateOnlyVariablesPractice.pdb
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\DateOnlyVariablesApp\DateOnlyVariablesPractice\obj\Debug\net6.0\DateOnlyVariablesPractice.csproj.AssemblyReference.cache
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\DateOnlyVariablesApp\DateOnlyVariablesPractice\obj\Debug\net6.0\DateOnlyVariablesPractice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\DateOnlyVariablesApp\DateOnlyVariablesPractice\obj\Debug\net6.0\DateOnlyVariablesPractice.AssemblyInfoInputs.cache
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\DateOnlyVariablesApp\DateOnlyVariablesPractice\obj\Debug\net6.0\DateOnlyVariablesPractice.AssemblyInfo.cs
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\DateOnlyVariablesApp\DateOnlyVariablesPractice\obj\Debug\net6.0\DateOnlyVariablesPractice.csproj.CoreCompileInputs.cache
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\DateOnlyVariablesApp\DateOnlyVariablesPractice\obj\Debug\net6.0\DateOnlyVariablesPractice.dll
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\DateOnlyVariablesApp\DateOnlyVariablesPractice\obj\Debug\net6.0\refint\DateOnlyVariablesPractice.dll
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\DateOnlyVariablesApp\DateOnlyVariablesPractice\obj\Debug\net6.0\DateOnlyVariablesPractice.pdb
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\DateOnlyVariablesApp\DateOnlyVariablesPractice\obj\Debug\net6.0\DateOnlyVariablesPractice.genruntimeconfig.cache
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\DateOnlyVariablesApp\DateOnlyVariablesPractice\obj\Debug\net6.0\ref\DateOnlyVariablesPractice.dll

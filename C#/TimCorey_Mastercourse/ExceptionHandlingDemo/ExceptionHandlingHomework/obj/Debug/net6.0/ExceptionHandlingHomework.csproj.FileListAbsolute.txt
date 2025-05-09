@@ -1,0 +1,15 @@
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\ExceptionHandlingDemo\ExceptionHandlingHomework\bin\Debug\net6.0\ExceptionHandlingHomework.exe
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\ExceptionHandlingDemo\ExceptionHandlingHomework\bin\Debug\net6.0\ExceptionHandlingHomework.deps.json
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\ExceptionHandlingDemo\ExceptionHandlingHomework\bin\Debug\net6.0\ExceptionHandlingHomework.runtimeconfig.json
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\ExceptionHandlingDemo\ExceptionHandlingHomework\bin\Debug\net6.0\ExceptionHandlingHomework.dll
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\ExceptionHandlingDemo\ExceptionHandlingHomework\bin\Debug\net6.0\ExceptionHandlingHomework.pdb
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\ExceptionHandlingDemo\ExceptionHandlingHomework\obj\Debug\net6.0\ExceptionHandlingHomework.csproj.AssemblyReference.cache
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\ExceptionHandlingDemo\ExceptionHandlingHomework\obj\Debug\net6.0\ExceptionHandlingHomework.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\ExceptionHandlingDemo\ExceptionHandlingHomework\obj\Debug\net6.0\ExceptionHandlingHomework.AssemblyInfoInputs.cache
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\ExceptionHandlingDemo\ExceptionHandlingHomework\obj\Debug\net6.0\ExceptionHandlingHomework.AssemblyInfo.cs
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\ExceptionHandlingDemo\ExceptionHandlingHomework\obj\Debug\net6.0\ExceptionHandlingHomework.csproj.CoreCompileInputs.cache
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\ExceptionHandlingDemo\ExceptionHandlingHomework\obj\Debug\net6.0\ExceptionHandlingHomework.dll
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\ExceptionHandlingDemo\ExceptionHandlingHomework\obj\Debug\net6.0\refint\ExceptionHandlingHomework.dll
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\ExceptionHandlingDemo\ExceptionHandlingHomework\obj\Debug\net6.0\ExceptionHandlingHomework.pdb
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\ExceptionHandlingDemo\ExceptionHandlingHomework\obj\Debug\net6.0\ExceptionHandlingHomework.genruntimeconfig.cache
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\ExceptionHandlingDemo\ExceptionHandlingHomework\obj\Debug\net6.0\ref\ExceptionHandlingHomework.dll

@@ -1,0 +1,12 @@
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\SelfGuestBookProjectApp\UserInformationHandler\bin\Debug\net6.0\UserInformationHandler.deps.json
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\SelfGuestBookProjectApp\UserInformationHandler\bin\Debug\net6.0\UserInformationHandler.dll
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\SelfGuestBookProjectApp\UserInformationHandler\bin\Debug\net6.0\UserInformationHandler.pdb
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\SelfGuestBookProjectApp\UserInformationHandler\obj\Debug\net6.0\UserInformationHandler.csproj.AssemblyReference.cache
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\SelfGuestBookProjectApp\UserInformationHandler\obj\Debug\net6.0\UserInformationHandler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\SelfGuestBookProjectApp\UserInformationHandler\obj\Debug\net6.0\UserInformationHandler.AssemblyInfoInputs.cache
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\SelfGuestBookProjectApp\UserInformationHandler\obj\Debug\net6.0\UserInformationHandler.AssemblyInfo.cs
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\SelfGuestBookProjectApp\UserInformationHandler\obj\Debug\net6.0\UserInformationHandler.csproj.CoreCompileInputs.cache
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\SelfGuestBookProjectApp\UserInformationHandler\obj\Debug\net6.0\UserInformationHandler.dll
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\SelfGuestBookProjectApp\UserInformationHandler\obj\Debug\net6.0\refint\UserInformationHandler.dll
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\SelfGuestBookProjectApp\UserInformationHandler\obj\Debug\net6.0\UserInformationHandler.pdb
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\SelfGuestBookProjectApp\UserInformationHandler\obj\Debug\net6.0\ref\UserInformationHandler.dll

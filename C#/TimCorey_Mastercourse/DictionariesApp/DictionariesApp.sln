@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dictionaries", "Dictionaries\Dictionaries.csproj", "{36A60897-CF98-4609-A972-9A90B3F3EE46}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DictionariesPractice", "DictionariesPractice\DictionariesPractice.csproj", "{6036FC7E-F7E2-4724-B328-FFE28E9A1309}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{36A60897-CF98-4609-A972-9A90B3F3EE46}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{36A60897-CF98-4609-A972-9A90B3F3EE46}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{36A60897-CF98-4609-A972-9A90B3F3EE46}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{36A60897-CF98-4609-A972-9A90B3F3EE46}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6036FC7E-F7E2-4724-B328-FFE28E9A1309}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6036FC7E-F7E2-4724-B328-FFE28E9A1309}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6036FC7E-F7E2-4724-B328-FFE28E9A1309}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6036FC7E-F7E2-4724-B328-FFE28E9A1309}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0DCBE1AF-A8E1-47AE-8E30-28B4709AB94E}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,15 @@
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\DoLoopHomeworkApp\DoLoopHomework\bin\Debug\net6.0\DoLoopHomework.exe
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\DoLoopHomeworkApp\DoLoopHomework\bin\Debug\net6.0\DoLoopHomework.deps.json
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\DoLoopHomeworkApp\DoLoopHomework\bin\Debug\net6.0\DoLoopHomework.runtimeconfig.json
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\DoLoopHomeworkApp\DoLoopHomework\bin\Debug\net6.0\DoLoopHomework.dll
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\DoLoopHomeworkApp\DoLoopHomework\bin\Debug\net6.0\DoLoopHomework.pdb
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\DoLoopHomeworkApp\DoLoopHomework\obj\Debug\net6.0\DoLoopHomework.csproj.AssemblyReference.cache
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\DoLoopHomeworkApp\DoLoopHomework\obj\Debug\net6.0\DoLoopHomework.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\DoLoopHomeworkApp\DoLoopHomework\obj\Debug\net6.0\DoLoopHomework.AssemblyInfoInputs.cache
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\DoLoopHomeworkApp\DoLoopHomework\obj\Debug\net6.0\DoLoopHomework.AssemblyInfo.cs
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\DoLoopHomeworkApp\DoLoopHomework\obj\Debug\net6.0\DoLoopHomework.csproj.CoreCompileInputs.cache
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\DoLoopHomeworkApp\DoLoopHomework\obj\Debug\net6.0\DoLoopHomework.dll
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\DoLoopHomeworkApp\DoLoopHomework\obj\Debug\net6.0\refint\DoLoopHomework.dll
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\DoLoopHomeworkApp\DoLoopHomework\obj\Debug\net6.0\DoLoopHomework.pdb
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\DoLoopHomeworkApp\DoLoopHomework\obj\Debug\net6.0\DoLoopHomework.genruntimeconfig.cache
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\DoLoopHomeworkApp\DoLoopHomework\obj\Debug\net6.0\ref\DoLoopHomework.dll

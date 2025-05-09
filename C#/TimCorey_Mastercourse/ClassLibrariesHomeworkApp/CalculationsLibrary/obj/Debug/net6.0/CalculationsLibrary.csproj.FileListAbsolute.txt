@@ -1,0 +1,12 @@
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\ClassLibrariesHomeworkApp\CalculationsLibrary\bin\Debug\net6.0\CalculationsLibrary.deps.json
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\ClassLibrariesHomeworkApp\CalculationsLibrary\bin\Debug\net6.0\CalculationsLibrary.dll
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\ClassLibrariesHomeworkApp\CalculationsLibrary\bin\Debug\net6.0\CalculationsLibrary.pdb
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\ClassLibrariesHomeworkApp\CalculationsLibrary\obj\Debug\net6.0\CalculationsLibrary.csproj.AssemblyReference.cache
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\ClassLibrariesHomeworkApp\CalculationsLibrary\obj\Debug\net6.0\CalculationsLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\ClassLibrariesHomeworkApp\CalculationsLibrary\obj\Debug\net6.0\CalculationsLibrary.AssemblyInfoInputs.cache
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\ClassLibrariesHomeworkApp\CalculationsLibrary\obj\Debug\net6.0\CalculationsLibrary.AssemblyInfo.cs
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\ClassLibrariesHomeworkApp\CalculationsLibrary\obj\Debug\net6.0\CalculationsLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\ClassLibrariesHomeworkApp\CalculationsLibrary\obj\Debug\net6.0\CalculationsLibrary.dll
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\ClassLibrariesHomeworkApp\CalculationsLibrary\obj\Debug\net6.0\refint\CalculationsLibrary.dll
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\ClassLibrariesHomeworkApp\CalculationsLibrary\obj\Debug\net6.0\CalculationsLibrary.pdb
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\ClassLibrariesHomeworkApp\CalculationsLibrary\obj\Debug\net6.0\ref\CalculationsLibrary.dll

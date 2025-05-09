@@ -1,0 +1,15 @@
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\VariablesHomeworkApp\VariablesHomework\bin\Debug\net6.0\VariablesHomework.exe
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\VariablesHomeworkApp\VariablesHomework\bin\Debug\net6.0\VariablesHomework.deps.json
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\VariablesHomeworkApp\VariablesHomework\bin\Debug\net6.0\VariablesHomework.runtimeconfig.json
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\VariablesHomeworkApp\VariablesHomework\bin\Debug\net6.0\VariablesHomework.dll
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\VariablesHomeworkApp\VariablesHomework\bin\Debug\net6.0\VariablesHomework.pdb
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\VariablesHomeworkApp\VariablesHomework\obj\Debug\net6.0\VariablesHomework.csproj.AssemblyReference.cache
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\VariablesHomeworkApp\VariablesHomework\obj\Debug\net6.0\VariablesHomework.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\VariablesHomeworkApp\VariablesHomework\obj\Debug\net6.0\VariablesHomework.AssemblyInfoInputs.cache
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\VariablesHomeworkApp\VariablesHomework\obj\Debug\net6.0\VariablesHomework.AssemblyInfo.cs
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\VariablesHomeworkApp\VariablesHomework\obj\Debug\net6.0\VariablesHomework.csproj.CoreCompileInputs.cache
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\VariablesHomeworkApp\VariablesHomework\obj\Debug\net6.0\VariablesHomework.dll
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\VariablesHomeworkApp\VariablesHomework\obj\Debug\net6.0\refint\VariablesHomework.dll
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\VariablesHomeworkApp\VariablesHomework\obj\Debug\net6.0\VariablesHomework.pdb
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\VariablesHomeworkApp\VariablesHomework\obj\Debug\net6.0\VariablesHomework.genruntimeconfig.cache
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\VariablesHomeworkApp\VariablesHomework\obj\Debug\net6.0\ref\VariablesHomework.dll

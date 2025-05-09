@@ -1,0 +1,15 @@
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\BoolVariablesApp\BoolVariablesPractice\bin\Debug\net6.0\BoolVariablesPractice.exe
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\BoolVariablesApp\BoolVariablesPractice\bin\Debug\net6.0\BoolVariablesPractice.deps.json
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\BoolVariablesApp\BoolVariablesPractice\bin\Debug\net6.0\BoolVariablesPractice.runtimeconfig.json
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\BoolVariablesApp\BoolVariablesPractice\bin\Debug\net6.0\BoolVariablesPractice.dll
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\BoolVariablesApp\BoolVariablesPractice\bin\Debug\net6.0\BoolVariablesPractice.pdb
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\BoolVariablesApp\BoolVariablesPractice\obj\Debug\net6.0\BoolVariablesPractice.csproj.AssemblyReference.cache
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\BoolVariablesApp\BoolVariablesPractice\obj\Debug\net6.0\BoolVariablesPractice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\BoolVariablesApp\BoolVariablesPractice\obj\Debug\net6.0\BoolVariablesPractice.AssemblyInfoInputs.cache
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\BoolVariablesApp\BoolVariablesPractice\obj\Debug\net6.0\BoolVariablesPractice.AssemblyInfo.cs
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\BoolVariablesApp\BoolVariablesPractice\obj\Debug\net6.0\BoolVariablesPractice.csproj.CoreCompileInputs.cache
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\BoolVariablesApp\BoolVariablesPractice\obj\Debug\net6.0\BoolVariablesPractice.dll
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\BoolVariablesApp\BoolVariablesPractice\obj\Debug\net6.0\refint\BoolVariablesPractice.dll
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\BoolVariablesApp\BoolVariablesPractice\obj\Debug\net6.0\BoolVariablesPractice.pdb
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\BoolVariablesApp\BoolVariablesPractice\obj\Debug\net6.0\BoolVariablesPractice.genruntimeconfig.cache
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\BoolVariablesApp\BoolVariablesPractice\obj\Debug\net6.0\ref\BoolVariablesPractice.dll

@@ -1,0 +1,6 @@
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\RelationalDBSolution\SQLContactsDB\bin\Debug\SQLContactsDB.dacpac
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\RelationalDBSolution\SQLContactsDB\bin\Debug\SQLContactsDB.dll
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\RelationalDBSolution\SQLContactsDB\bin\Debug\SQLContactsDB.pdb
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\RelationalDBSolution\SQLContactsDB\obj\Debug\SQLContactsDB.sqlproj.AssemblyReference.cache
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\RelationalDBSolution\SQLContactsDB\obj\Debug\SQLContactsDB.dll
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\RelationalDBSolution\SQLContactsDB\obj\Debug\SQLContactsDB.pdb

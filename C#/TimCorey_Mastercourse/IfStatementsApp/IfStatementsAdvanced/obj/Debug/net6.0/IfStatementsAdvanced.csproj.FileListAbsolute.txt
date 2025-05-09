@@ -1,0 +1,15 @@
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\IfStatementsApp\IfStatementsAdvanced\bin\Debug\net6.0\IfStatementsAdvanced.exe
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\IfStatementsApp\IfStatementsAdvanced\bin\Debug\net6.0\IfStatementsAdvanced.deps.json
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\IfStatementsApp\IfStatementsAdvanced\bin\Debug\net6.0\IfStatementsAdvanced.runtimeconfig.json
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\IfStatementsApp\IfStatementsAdvanced\bin\Debug\net6.0\IfStatementsAdvanced.dll
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\IfStatementsApp\IfStatementsAdvanced\bin\Debug\net6.0\IfStatementsAdvanced.pdb
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\IfStatementsApp\IfStatementsAdvanced\obj\Debug\net6.0\IfStatementsAdvanced.csproj.AssemblyReference.cache
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\IfStatementsApp\IfStatementsAdvanced\obj\Debug\net6.0\IfStatementsAdvanced.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\IfStatementsApp\IfStatementsAdvanced\obj\Debug\net6.0\IfStatementsAdvanced.AssemblyInfoInputs.cache
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\IfStatementsApp\IfStatementsAdvanced\obj\Debug\net6.0\IfStatementsAdvanced.AssemblyInfo.cs
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\IfStatementsApp\IfStatementsAdvanced\obj\Debug\net6.0\IfStatementsAdvanced.csproj.CoreCompileInputs.cache
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\IfStatementsApp\IfStatementsAdvanced\obj\Debug\net6.0\IfStatementsAdvanced.dll
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\IfStatementsApp\IfStatementsAdvanced\obj\Debug\net6.0\refint\IfStatementsAdvanced.dll
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\IfStatementsApp\IfStatementsAdvanced\obj\Debug\net6.0\IfStatementsAdvanced.pdb
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\IfStatementsApp\IfStatementsAdvanced\obj\Debug\net6.0\IfStatementsAdvanced.genruntimeconfig.cache
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\IfStatementsApp\IfStatementsAdvanced\obj\Debug\net6.0\ref\IfStatementsAdvanced.dll

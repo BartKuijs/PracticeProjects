@@ -1,0 +1,15 @@
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\BoolVariablesApp\BoolVariables\bin\Debug\net6.0\BoolVariables.exe
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\BoolVariablesApp\BoolVariables\bin\Debug\net6.0\BoolVariables.deps.json
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\BoolVariablesApp\BoolVariables\bin\Debug\net6.0\BoolVariables.runtimeconfig.json
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\BoolVariablesApp\BoolVariables\bin\Debug\net6.0\BoolVariables.dll
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\BoolVariablesApp\BoolVariables\bin\Debug\net6.0\BoolVariables.pdb
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\BoolVariablesApp\BoolVariables\obj\Debug\net6.0\BoolVariables.csproj.AssemblyReference.cache
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\BoolVariablesApp\BoolVariables\obj\Debug\net6.0\BoolVariables.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\BoolVariablesApp\BoolVariables\obj\Debug\net6.0\BoolVariables.AssemblyInfoInputs.cache
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\BoolVariablesApp\BoolVariables\obj\Debug\net6.0\BoolVariables.AssemblyInfo.cs
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\BoolVariablesApp\BoolVariables\obj\Debug\net6.0\BoolVariables.csproj.CoreCompileInputs.cache
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\BoolVariablesApp\BoolVariables\obj\Debug\net6.0\BoolVariables.dll
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\BoolVariablesApp\BoolVariables\obj\Debug\net6.0\refint\BoolVariables.dll
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\BoolVariablesApp\BoolVariables\obj\Debug\net6.0\BoolVariables.pdb
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\BoolVariablesApp\BoolVariables\obj\Debug\net6.0\BoolVariables.genruntimeconfig.cache
+C:\Users\Bart\source\repos\TimCorey_Mastercourse\BoolVariablesApp\BoolVariables\obj\Debug\net6.0\ref\BoolVariables.dll

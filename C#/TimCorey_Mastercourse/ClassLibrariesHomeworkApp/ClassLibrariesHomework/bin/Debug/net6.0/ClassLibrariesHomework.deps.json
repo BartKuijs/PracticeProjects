@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "ClassLibrariesHomework/1.0.0": {
+        "dependencies": {
+          "CalculationsLibrary": "1.0.0"
+        },
+        "runtime": {
+          "ClassLibrariesHomework.dll": {}
+        }
+      },
+      "CalculationsLibrary/1.0.0": {
+        "runtime": {
+          "CalculationsLibrary.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ClassLibrariesHomework/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CalculationsLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
