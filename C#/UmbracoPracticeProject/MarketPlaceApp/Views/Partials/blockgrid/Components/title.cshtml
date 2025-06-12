@@ -1,0 +1,8 @@
+﻿@inherits UmbracoViewPage<Umbraco.Cms.Core.Models.Blocks.BlockGridItem<ContentModels.Title>>
+
+@{
+    var textColorClass = Model.Content.Color != null ? "text-" + Model.Content.Color.ToLower() : "";
+}
+
+
+<h2 class="page-section-heading text-center text-uppercase @(textColorClass) mb-0 mt-5">@Model.Content.Text</h2>
