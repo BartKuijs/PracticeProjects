@@ -3,12 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\bartk\\Documents\\Software Learning\\PracticeProjects\\C#\\UmbracoPracticeProject\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9542BDA0-A041-491B-8AFF-3153EDC42DB9}|MarketPlaceApp\\MarketPlaceApp.csproj|c:\\users\\bartk\\documents\\software learning\\practiceprojects\\c#\\umbracopracticeproject\\marketplaceapp\\views\\partials\\blockgrid\\components\\button.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{9542BDA0-A041-491B-8AFF-3153EDC42DB9}|MarketPlaceApp\\MarketPlaceApp.csproj|solutionrelative:marketplaceapp\\views\\partials\\blockgrid\\components\\button.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{9542BDA0-A041-491B-8AFF-3153EDC42DB9}|MarketPlaceApp\\MarketPlaceApp.csproj|c:\\users\\bartk\\documents\\software learning\\practiceprojects\\c#\\umbracopracticeproject\\marketplaceapp\\views\\partials\\contactform.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9542BDA0-A041-491B-8AFF-3153EDC42DB9}|MarketPlaceApp\\MarketPlaceApp.csproj|solutionrelative:marketplaceapp\\views\\partials\\contactform.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9542BDA0-A041-491B-8AFF-3153EDC42DB9}|MarketPlaceApp\\MarketPlaceApp.csproj|c:\\users\\bartk\\documents\\software learning\\practiceprojects\\c#\\umbracopracticeproject\\marketplaceapp\\views\\partials\\blockgrid\\components\\richtext.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{9542BDA0-A041-491B-8AFF-3153EDC42DB9}|MarketPlaceApp\\MarketPlaceApp.csproj|solutionrelative:marketplaceapp\\views\\partials\\blockgrid\\components\\richtext.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{9542BDA0-A041-491B-8AFF-3153EDC42DB9}|MarketPlaceApp\\MarketPlaceApp.csproj|c:\\users\\bartk\\documents\\software learning\\practiceprojects\\c#\\umbracopracticeproject\\marketplaceapp\\views\\partials\\blockgrid\\components\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9542BDA0-A041-491B-8AFF-3153EDC42DB9}|MarketPlaceApp\\MarketPlaceApp.csproj|solutionrelative:marketplaceapp\\views\\partials\\blockgrid\\components\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9542BDA0-A041-491B-8AFF-3153EDC42DB9}|MarketPlaceApp\\MarketPlaceApp.csproj|c:\\users\\bartk\\documents\\software learning\\practiceprojects\\c#\\umbracopracticeproject\\marketplaceapp\\views\\homepage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9542BDA0-A041-491B-8AFF-3153EDC42DB9}|MarketPlaceApp\\MarketPlaceApp.csproj|solutionrelative:marketplaceapp\\views\\homepage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,34 +22,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "button.cshtml",
-              "DocumentMoniker": "C:\\Users\\bartk\\Documents\\Software Learning\\PracticeProjects\\C#\\UmbracoPracticeProject\\MarketPlaceApp\\Views\\Partials\\blockgrid\\Components\\button.cshtml",
-              "RelativeDocumentMoniker": "MarketPlaceApp\\Views\\Partials\\blockgrid\\Components\\button.cshtml",
-              "ToolTip": "C:\\Users\\bartk\\Documents\\Software Learning\\PracticeProjects\\C#\\UmbracoPracticeProject\\MarketPlaceApp\\Views\\Partials\\blockgrid\\Components\\button.cshtml",
-              "RelativeToolTip": "MarketPlaceApp\\Views\\Partials\\blockgrid\\Components\\button.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-06-12T10:17:09.929Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "richText.cshtml",
-              "DocumentMoniker": "C:\\Users\\bartk\\Documents\\Software Learning\\PracticeProjects\\C#\\UmbracoPracticeProject\\MarketPlaceApp\\Views\\Partials\\blockgrid\\Components\\richText.cshtml",
-              "RelativeDocumentMoniker": "MarketPlaceApp\\Views\\Partials\\blockgrid\\Components\\richText.cshtml",
-              "ToolTip": "C:\\Users\\bartk\\Documents\\Software Learning\\PracticeProjects\\C#\\UmbracoPracticeProject\\MarketPlaceApp\\Views\\Partials\\blockgrid\\Components\\richText.cshtml",
-              "RelativeToolTip": "MarketPlaceApp\\Views\\Partials\\blockgrid\\Components\\richText.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAkAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-06-12T09:56:53.744Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
@@ -53,6 +31,43 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{131369f2-062d-44a2-8671-91ff31efb4f4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "contactForm.cshtml",
+              "DocumentMoniker": "C:\\Users\\bartk\\Documents\\Software Learning\\PracticeProjects\\C#\\UmbracoPracticeProject\\MarketPlaceApp\\Views\\Partials\\contactForm.cshtml",
+              "RelativeDocumentMoniker": "MarketPlaceApp\\Views\\Partials\\contactForm.cshtml",
+              "ToolTip": "C:\\Users\\bartk\\Documents\\Software Learning\\PracticeProjects\\C#\\UmbracoPracticeProject\\MarketPlaceApp\\Views\\Partials\\contactForm.cshtml",
+              "RelativeToolTip": "MarketPlaceApp\\Views\\Partials\\contactForm.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-13T10:25:06.786Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "contact.cshtml",
+              "DocumentMoniker": "C:\\Users\\bartk\\Documents\\Software Learning\\PracticeProjects\\C#\\UmbracoPracticeProject\\MarketPlaceApp\\Views\\Partials\\blockgrid\\Components\\contact.cshtml",
+              "RelativeDocumentMoniker": "MarketPlaceApp\\Views\\Partials\\blockgrid\\Components\\contact.cshtml",
+              "ToolTip": "C:\\Users\\bartk\\Documents\\Software Learning\\PracticeProjects\\C#\\UmbracoPracticeProject\\MarketPlaceApp\\Views\\Partials\\blockgrid\\Components\\contact.cshtml",
+              "RelativeToolTip": "MarketPlaceApp\\Views\\Partials\\blockgrid\\Components\\contact.cshtml",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAAEkAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-13T10:17:51.896Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomePage.cshtml",
+              "DocumentMoniker": "C:\\Users\\bartk\\Documents\\Software Learning\\PracticeProjects\\C#\\UmbracoPracticeProject\\MarketPlaceApp\\Views\\HomePage.cshtml",
+              "RelativeDocumentMoniker": "MarketPlaceApp\\Views\\HomePage.cshtml",
+              "ToolTip": "C:\\Users\\bartk\\Documents\\Software Learning\\PracticeProjects\\C#\\UmbracoPracticeProject\\MarketPlaceApp\\Views\\HomePage.cshtml",
+              "RelativeToolTip": "MarketPlaceApp\\Views\\HomePage.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-13T10:08:23.333Z"
             }
           ]
         }
