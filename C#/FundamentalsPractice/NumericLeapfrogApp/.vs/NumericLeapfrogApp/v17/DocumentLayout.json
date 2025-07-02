@@ -1,0 +1,45 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\bartk\\Documents\\Software Learning\\PracticeProjects\\C#\\FundamentalsPractice\\NumericLeapfrogApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E1D1B6A7-0748-4DD9-B2F2-F73DF3524F0B}|NumericLeapfrog\\NumericLeapfrog.csproj|c:\\users\\bartk\\documents\\software learning\\practiceprojects\\c#\\fundamentalspractice\\numericleapfrogapp\\numericleapfrog\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1D1B6A7-0748-4DD9-B2F2-F73DF3524F0B}|NumericLeapfrog\\NumericLeapfrog.csproj|solutionrelative:numericleapfrog\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{131369f2-062d-44a2-8671-91ff31efb4f4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\bartk\\Documents\\Software Learning\\PracticeProjects\\C#\\FundamentalsPractice\\NumericLeapfrogApp\\NumericLeapfrog\\Program.cs",
+              "RelativeDocumentMoniker": "NumericLeapfrog\\Program.cs",
+              "ToolTip": "C:\\Users\\bartk\\Documents\\Software Learning\\PracticeProjects\\C#\\FundamentalsPractice\\NumericLeapfrogApp\\NumericLeapfrog\\Program.cs",
+              "RelativeToolTip": "NumericLeapfrog\\Program.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAABQAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T12:08:37.116Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

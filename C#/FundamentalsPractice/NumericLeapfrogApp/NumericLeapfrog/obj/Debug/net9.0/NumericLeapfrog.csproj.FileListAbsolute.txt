@@ -1,0 +1,15 @@
+C:\Users\bartk\Documents\Software Learning\PracticeProjects\C#\FundamentalsPractice\NumericLeapfrogApp\NumericLeapfrog\bin\Debug\net9.0\NumericLeapfrog.exe
+C:\Users\bartk\Documents\Software Learning\PracticeProjects\C#\FundamentalsPractice\NumericLeapfrogApp\NumericLeapfrog\bin\Debug\net9.0\NumericLeapfrog.deps.json
+C:\Users\bartk\Documents\Software Learning\PracticeProjects\C#\FundamentalsPractice\NumericLeapfrogApp\NumericLeapfrog\bin\Debug\net9.0\NumericLeapfrog.runtimeconfig.json
+C:\Users\bartk\Documents\Software Learning\PracticeProjects\C#\FundamentalsPractice\NumericLeapfrogApp\NumericLeapfrog\bin\Debug\net9.0\NumericLeapfrog.dll
+C:\Users\bartk\Documents\Software Learning\PracticeProjects\C#\FundamentalsPractice\NumericLeapfrogApp\NumericLeapfrog\bin\Debug\net9.0\NumericLeapfrog.pdb
+C:\Users\bartk\Documents\Software Learning\PracticeProjects\C#\FundamentalsPractice\NumericLeapfrogApp\NumericLeapfrog\obj\Debug\net9.0\NumericLeapfrog.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bartk\Documents\Software Learning\PracticeProjects\C#\FundamentalsPractice\NumericLeapfrogApp\NumericLeapfrog\obj\Debug\net9.0\NumericLeapfrog.AssemblyInfoInputs.cache
+C:\Users\bartk\Documents\Software Learning\PracticeProjects\C#\FundamentalsPractice\NumericLeapfrogApp\NumericLeapfrog\obj\Debug\net9.0\NumericLeapfrog.AssemblyInfo.cs
+C:\Users\bartk\Documents\Software Learning\PracticeProjects\C#\FundamentalsPractice\NumericLeapfrogApp\NumericLeapfrog\obj\Debug\net9.0\NumericLeapfrog.csproj.CoreCompileInputs.cache
+C:\Users\bartk\Documents\Software Learning\PracticeProjects\C#\FundamentalsPractice\NumericLeapfrogApp\NumericLeapfrog\obj\Debug\net9.0\NumericLeapfrog.sourcelink.json
+C:\Users\bartk\Documents\Software Learning\PracticeProjects\C#\FundamentalsPractice\NumericLeapfrogApp\NumericLeapfrog\obj\Debug\net9.0\NumericLeapfrog.dll
+C:\Users\bartk\Documents\Software Learning\PracticeProjects\C#\FundamentalsPractice\NumericLeapfrogApp\NumericLeapfrog\obj\Debug\net9.0\refint\NumericLeapfrog.dll
+C:\Users\bartk\Documents\Software Learning\PracticeProjects\C#\FundamentalsPractice\NumericLeapfrogApp\NumericLeapfrog\obj\Debug\net9.0\NumericLeapfrog.pdb
+C:\Users\bartk\Documents\Software Learning\PracticeProjects\C#\FundamentalsPractice\NumericLeapfrogApp\NumericLeapfrog\obj\Debug\net9.0\NumericLeapfrog.genruntimeconfig.cache
+C:\Users\bartk\Documents\Software Learning\PracticeProjects\C#\FundamentalsPractice\NumericLeapfrogApp\NumericLeapfrog\obj\Debug\net9.0\ref\NumericLeapfrog.dll
