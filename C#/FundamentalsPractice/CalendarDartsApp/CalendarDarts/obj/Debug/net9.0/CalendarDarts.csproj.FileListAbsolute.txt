@@ -1,0 +1,15 @@
+C:\Users\bartk\Documents\Software Learning\PracticeProjects\C#\FundamentalsPractice\CalendarDartsApp\CalendarDarts\bin\Debug\net9.0\CalendarDarts.exe
+C:\Users\bartk\Documents\Software Learning\PracticeProjects\C#\FundamentalsPractice\CalendarDartsApp\CalendarDarts\bin\Debug\net9.0\CalendarDarts.deps.json
+C:\Users\bartk\Documents\Software Learning\PracticeProjects\C#\FundamentalsPractice\CalendarDartsApp\CalendarDarts\bin\Debug\net9.0\CalendarDarts.runtimeconfig.json
+C:\Users\bartk\Documents\Software Learning\PracticeProjects\C#\FundamentalsPractice\CalendarDartsApp\CalendarDarts\bin\Debug\net9.0\CalendarDarts.dll
+C:\Users\bartk\Documents\Software Learning\PracticeProjects\C#\FundamentalsPractice\CalendarDartsApp\CalendarDarts\bin\Debug\net9.0\CalendarDarts.pdb
+C:\Users\bartk\Documents\Software Learning\PracticeProjects\C#\FundamentalsPractice\CalendarDartsApp\CalendarDarts\obj\Debug\net9.0\CalendarDarts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bartk\Documents\Software Learning\PracticeProjects\C#\FundamentalsPractice\CalendarDartsApp\CalendarDarts\obj\Debug\net9.0\CalendarDarts.AssemblyInfoInputs.cache
+C:\Users\bartk\Documents\Software Learning\PracticeProjects\C#\FundamentalsPractice\CalendarDartsApp\CalendarDarts\obj\Debug\net9.0\CalendarDarts.AssemblyInfo.cs
+C:\Users\bartk\Documents\Software Learning\PracticeProjects\C#\FundamentalsPractice\CalendarDartsApp\CalendarDarts\obj\Debug\net9.0\CalendarDarts.csproj.CoreCompileInputs.cache
+C:\Users\bartk\Documents\Software Learning\PracticeProjects\C#\FundamentalsPractice\CalendarDartsApp\CalendarDarts\obj\Debug\net9.0\CalendarDarts.sourcelink.json
+C:\Users\bartk\Documents\Software Learning\PracticeProjects\C#\FundamentalsPractice\CalendarDartsApp\CalendarDarts\obj\Debug\net9.0\CalendarDarts.dll
+C:\Users\bartk\Documents\Software Learning\PracticeProjects\C#\FundamentalsPractice\CalendarDartsApp\CalendarDarts\obj\Debug\net9.0\refint\CalendarDarts.dll
+C:\Users\bartk\Documents\Software Learning\PracticeProjects\C#\FundamentalsPractice\CalendarDartsApp\CalendarDarts\obj\Debug\net9.0\CalendarDarts.pdb
+C:\Users\bartk\Documents\Software Learning\PracticeProjects\C#\FundamentalsPractice\CalendarDartsApp\CalendarDarts\obj\Debug\net9.0\CalendarDarts.genruntimeconfig.cache
+C:\Users\bartk\Documents\Software Learning\PracticeProjects\C#\FundamentalsPractice\CalendarDartsApp\CalendarDarts\obj\Debug\net9.0\ref\CalendarDarts.dll
