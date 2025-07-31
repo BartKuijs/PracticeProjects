@@ -6,13 +6,9 @@
   </PropertyGroup>
   <ItemGroup>
     <Compile Remove="NewFolder1\**" />
-    <Compile Remove="NewFolder\**" />
     <Content Remove="NewFolder1\**" />
-    <Content Remove="NewFolder\**" />
     <EmbeddedResource Remove="NewFolder1\**" />
-    <EmbeddedResource Remove="NewFolder\**" />
     <None Remove="NewFolder1\**" />
-    <None Remove="NewFolder\**" />
   </ItemGroup>
 
   <ItemGroup>
@@ -23,7 +19,12 @@
   <ItemGroup>
     <!-- Opt-in to app-local ICU to ensure consistent globalization APIs across different platforms -->
     <PackageReference Include="Microsoft.ICU.ICU4C.Runtime" Version="72.1.0.3" />
+    <PackageReference Include="Umbraco.Community.BlockPreview" Version="4.0.0" />
     <RuntimeHostConfigurationOption Include="System.Globalization.AppLocalIcu" Value="72.1.0.3" Condition="$(RuntimeIdentifier.StartsWith('linux')) or $(RuntimeIdentifier.StartsWith('win')) or ('$(RuntimeIdentifier)' == '' and !$([MSBuild]::IsOSPlatform('osx')))" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Views\Styles\" />
   </ItemGroup>
 
   <PropertyGroup>

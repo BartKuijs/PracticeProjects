@@ -1,0 +1,28 @@
+<style>
+    .text {
+        position: relative;
+        display: block;
+        height: 100%;
+        cursor: pointer;
+        background-color: transparent;
+        text-align: left;
+        padding: 0;
+        user-select: none;
+        border: none;
+        transition: border-color 120ms, background-color 120ms;
+        font-family: Lato;
+        line-height: 1.5;
+        padding-top: 1px;
+        margin: -1px 20px 0 20px;
+    }
+
+    .divider-custom-icon svg{
+        width: 1.2em;
+        height: 1.2em;
+    }
+</style>
+
+<div class="text" ng-click="block.edit()" ng-focus="block.focus">
+    <h2 class="page-selection-heading text-center text-uppercase text-secondary mb-0">{{block.data.text}}
+    </h2>
+</div>

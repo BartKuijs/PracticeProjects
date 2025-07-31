@@ -5,7 +5,6 @@
     Layout = "Main.cshtml";
 }
 
-
 @await Html.PartialAsync("header", Model)
 @await Html.GetBlockGridHtmlAsync(Model, "mainContent")
 @await Html.PartialAsync("contactForm", Model)
